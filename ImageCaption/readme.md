@@ -1,6 +1,5 @@
 # Image Captioning Project
 
-Full work was implemented in Google Colab(so the setup)
 
 ## Overview
 
