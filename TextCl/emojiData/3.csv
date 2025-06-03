@@ -1,0 +1,1469 @@
+emoji,code_points,description
+👨‍❤️‍👨,1F468 200D 2764 FE0F 200D 1F468             ,"couple with heart: man, man"
+👨‍❤️‍💋‍👨,1F468 200D 2764 FE0F 200D 1F48B 200D 1F468  ,"kiss: man, man"
+👨‍👦,1F468 200D 1F466                            ,"family: man, boy"
+👨‍👦‍👦,1F468 200D 1F466 200D 1F466                 ,"family: man, boy, boy"
+👨‍👧,1F468 200D 1F467                            ,"family: man, girl"
+👨‍👧‍👦,1F468 200D 1F467 200D 1F466                 ,"family: man, girl, boy"
+👨‍👧‍👧,1F468 200D 1F467 200D 1F467                 ,"family: man, girl, girl"
+👨‍👨‍👦,1F468 200D 1F468 200D 1F466                 ,"family: man, man, boy"
+👨‍👨‍👦‍👦,1F468 200D 1F468 200D 1F466 200D 1F466      ,"family: man, man, boy, boy"
+👨‍👨‍👧,1F468 200D 1F468 200D 1F467                 ,"family: man, man, girl"
+👨‍👨‍👧‍👦,1F468 200D 1F468 200D 1F467 200D 1F466      ,"family: man, man, girl, boy"
+👨‍👨‍👧‍👧,1F468 200D 1F468 200D 1F467 200D 1F467      ,"family: man, man, girl, girl"
+👨‍👩‍👦,1F468 200D 1F469 200D 1F466                 ,"family: man, woman, boy"
+👨‍👩‍👦‍👦,1F468 200D 1F469 200D 1F466 200D 1F466      ,"family: man, woman, boy, boy"
+👨‍👩‍👧,1F468 200D 1F469 200D 1F467                 ,"family: man, woman, girl"
+👨‍👩‍👧‍👦,1F468 200D 1F469 200D 1F467 200D 1F466      ,"family: man, woman, girl, boy"
+👨‍👩‍👧‍👧,1F468 200D 1F469 200D 1F467 200D 1F467      ,"family: man, woman, girl, girl"
+👨🏻‍❤️‍👨🏻,1F468 1F3FB 200D 2764 FE0F 200D 1F468 1F3FB ,"couple with heart: man, man, light skin tone"
+👨🏻‍❤️‍👨🏼,1F468 1F3FB 200D 2764 FE0F 200D 1F468 1F3FC ,"couple with heart: man, man, light skin tone, medium-light skin tone"
+👨🏻‍❤️‍👨🏽,1F468 1F3FB 200D 2764 FE0F 200D 1F468 1F3FD ,"couple with heart: man, man, light skin tone, medium skin tone"
+👨🏻‍❤️‍👨🏾,1F468 1F3FB 200D 2764 FE0F 200D 1F468 1F3FE ,"couple with heart: man, man, light skin tone, medium-dark skin tone"
+👨🏻‍❤️‍👨🏿,1F468 1F3FB 200D 2764 FE0F 200D 1F468 1F3FF ,"couple with heart: man, man, light skin tone, dark skin tone"
+👨🏻‍❤️‍💋‍👨🏻,1F468 1F3FB 200D 2764 FE0F 200D 1F48B 200D 1F468 1F3FB,"kiss: man, man, light skin tone"
+👨🏻‍❤️‍💋‍👨🏼,1F468 1F3FB 200D 2764 FE0F 200D 1F48B 200D 1F468 1F3FC,"kiss: man, man, light skin tone, medium-light skin tone"
+👨🏻‍❤️‍💋‍👨🏽,1F468 1F3FB 200D 2764 FE0F 200D 1F48B 200D 1F468 1F3FD,"kiss: man, man, light skin tone, medium skin tone"
+👨🏻‍❤️‍💋‍👨🏾,1F468 1F3FB 200D 2764 FE0F 200D 1F48B 200D 1F468 1F3FE,"kiss: man, man, light skin tone, medium-dark skin tone"
+👨🏻‍❤️‍💋‍👨🏿,1F468 1F3FB 200D 2764 FE0F 200D 1F48B 200D 1F468 1F3FF,"kiss: man, man, light skin tone, dark skin tone"
+👨🏻‍🤝‍👨🏼,1F468 1F3FB 200D 1F91D 200D 1F468 1F3FC     ,"men holding hands: light skin tone, medium-light skin tone"
+👨🏻‍🤝‍👨🏽,1F468 1F3FB 200D 1F91D 200D 1F468 1F3FD     ,"men holding hands: light skin tone, medium skin tone"
+👨🏻‍🤝‍👨🏾,1F468 1F3FB 200D 1F91D 200D 1F468 1F3FE     ,"men holding hands: light skin tone, medium-dark skin tone"
+👨🏻‍🤝‍👨🏿,1F468 1F3FB 200D 1F91D 200D 1F468 1F3FF     ,"men holding hands: light skin tone, dark skin tone"
+👨🏼‍❤️‍👨🏻,1F468 1F3FC 200D 2764 FE0F 200D 1F468 1F3FB ,"couple with heart: man, man, medium-light skin tone, light skin tone"
+👨🏼‍❤️‍👨🏼,1F468 1F3FC 200D 2764 FE0F 200D 1F468 1F3FC ,"couple with heart: man, man, medium-light skin tone"
+👨🏼‍❤️‍👨🏽,1F468 1F3FC 200D 2764 FE0F 200D 1F468 1F3FD ,"couple with heart: man, man, medium-light skin tone, medium skin tone"
+👨🏼‍❤️‍👨🏾,1F468 1F3FC 200D 2764 FE0F 200D 1F468 1F3FE ,"couple with heart: man, man, medium-light skin tone, medium-dark skin tone"
+👨🏼‍❤️‍👨🏿,1F468 1F3FC 200D 2764 FE0F 200D 1F468 1F3FF ,"couple with heart: man, man, medium-light skin tone, dark skin tone"
+👨🏼‍❤️‍💋‍👨🏻,1F468 1F3FC 200D 2764 FE0F 200D 1F48B 200D 1F468 1F3FB,"kiss: man, man, medium-light skin tone, light skin tone"
+👨🏼‍❤️‍💋‍👨🏼,1F468 1F3FC 200D 2764 FE0F 200D 1F48B 200D 1F468 1F3FC,"kiss: man, man, medium-light skin tone"
+👨🏼‍❤️‍💋‍👨🏽,1F468 1F3FC 200D 2764 FE0F 200D 1F48B 200D 1F468 1F3FD,"kiss: man, man, medium-light skin tone, medium skin tone"
+👨🏼‍❤️‍💋‍👨🏾,1F468 1F3FC 200D 2764 FE0F 200D 1F48B 200D 1F468 1F3FE,"kiss: man, man, medium-light skin tone, medium-dark skin tone"
+👨🏼‍❤️‍💋‍👨🏿,1F468 1F3FC 200D 2764 FE0F 200D 1F48B 200D 1F468 1F3FF,"kiss: man, man, medium-light skin tone, dark skin tone"
+👨🏼‍🤝‍👨🏻,1F468 1F3FC 200D 1F91D 200D 1F468 1F3FB     ,"men holding hands: medium-light skin tone, light skin tone"
+👨🏼‍🤝‍👨🏽,1F468 1F3FC 200D 1F91D 200D 1F468 1F3FD     ,"men holding hands: medium-light skin tone, medium skin tone"
+👨🏼‍🤝‍👨🏾,1F468 1F3FC 200D 1F91D 200D 1F468 1F3FE     ,"men holding hands: medium-light skin tone, medium-dark skin tone"
+👨🏼‍🤝‍👨🏿,1F468 1F3FC 200D 1F91D 200D 1F468 1F3FF     ,"men holding hands: medium-light skin tone, dark skin tone"
+👨🏽‍❤️‍👨🏻,1F468 1F3FD 200D 2764 FE0F 200D 1F468 1F3FB ,"couple with heart: man, man, medium skin tone, light skin tone"
+👨🏽‍❤️‍👨🏼,1F468 1F3FD 200D 2764 FE0F 200D 1F468 1F3FC ,"couple with heart: man, man, medium skin tone, medium-light skin tone"
+👨🏽‍❤️‍👨🏽,1F468 1F3FD 200D 2764 FE0F 200D 1F468 1F3FD ,"couple with heart: man, man, medium skin tone"
+👨🏽‍❤️‍👨🏾,1F468 1F3FD 200D 2764 FE0F 200D 1F468 1F3FE ,"couple with heart: man, man, medium skin tone, medium-dark skin tone"
+👨🏽‍❤️‍👨🏿,1F468 1F3FD 200D 2764 FE0F 200D 1F468 1F3FF ,"couple with heart: man, man, medium skin tone, dark skin tone"
+👨🏽‍❤️‍💋‍👨🏻,1F468 1F3FD 200D 2764 FE0F 200D 1F48B 200D 1F468 1F3FB,"kiss: man, man, medium skin tone, light skin tone"
+👨🏽‍❤️‍💋‍👨🏼,1F468 1F3FD 200D 2764 FE0F 200D 1F48B 200D 1F468 1F3FC,"kiss: man, man, medium skin tone, medium-light skin tone"
+👨🏽‍❤️‍💋‍👨🏽,1F468 1F3FD 200D 2764 FE0F 200D 1F48B 200D 1F468 1F3FD,"kiss: man, man, medium skin tone"
+👨🏽‍❤️‍💋‍👨🏾,1F468 1F3FD 200D 2764 FE0F 200D 1F48B 200D 1F468 1F3FE,"kiss: man, man, medium skin tone, medium-dark skin tone"
+👨🏽‍❤️‍💋‍👨🏿,1F468 1F3FD 200D 2764 FE0F 200D 1F48B 200D 1F468 1F3FF,"kiss: man, man, medium skin tone, dark skin tone"
+👨🏽‍🤝‍👨🏻,1F468 1F3FD 200D 1F91D 200D 1F468 1F3FB     ,"men holding hands: medium skin tone, light skin tone"
+👨🏽‍🤝‍👨🏼,1F468 1F3FD 200D 1F91D 200D 1F468 1F3FC     ,"men holding hands: medium skin tone, medium-light skin tone"
+👨🏽‍🤝‍👨🏾,1F468 1F3FD 200D 1F91D 200D 1F468 1F3FE     ,"men holding hands: medium skin tone, medium-dark skin tone"
+👨🏽‍🤝‍👨🏿,1F468 1F3FD 200D 1F91D 200D 1F468 1F3FF     ,"men holding hands: medium skin tone, dark skin tone"
+👨🏾‍❤️‍👨🏻,1F468 1F3FE 200D 2764 FE0F 200D 1F468 1F3FB ,"couple with heart: man, man, medium-dark skin tone, light skin tone"
+👨🏾‍❤️‍👨🏼,1F468 1F3FE 200D 2764 FE0F 200D 1F468 1F3FC ,"couple with heart: man, man, medium-dark skin tone, medium-light skin tone"
+👨🏾‍❤️‍👨🏽,1F468 1F3FE 200D 2764 FE0F 200D 1F468 1F3FD ,"couple with heart: man, man, medium-dark skin tone, medium skin tone"
+👨🏾‍❤️‍👨🏾,1F468 1F3FE 200D 2764 FE0F 200D 1F468 1F3FE ,"couple with heart: man, man, medium-dark skin tone"
+👨🏾‍❤️‍👨🏿,1F468 1F3FE 200D 2764 FE0F 200D 1F468 1F3FF ,"couple with heart: man, man, medium-dark skin tone, dark skin tone"
+👨🏾‍❤️‍💋‍👨🏻,1F468 1F3FE 200D 2764 FE0F 200D 1F48B 200D 1F468 1F3FB,"kiss: man, man, medium-dark skin tone, light skin tone"
+👨🏾‍❤️‍💋‍👨🏼,1F468 1F3FE 200D 2764 FE0F 200D 1F48B 200D 1F468 1F3FC,"kiss: man, man, medium-dark skin tone, medium-light skin tone"
+👨🏾‍❤️‍💋‍👨🏽,1F468 1F3FE 200D 2764 FE0F 200D 1F48B 200D 1F468 1F3FD,"kiss: man, man, medium-dark skin tone, medium skin tone"
+👨🏾‍❤️‍💋‍👨🏾,1F468 1F3FE 200D 2764 FE0F 200D 1F48B 200D 1F468 1F3FE,"kiss: man, man, medium-dark skin tone"
+👨🏾‍❤️‍💋‍👨🏿,1F468 1F3FE 200D 2764 FE0F 200D 1F48B 200D 1F468 1F3FF,"kiss: man, man, medium-dark skin tone, dark skin tone"
+👨🏾‍🤝‍👨🏻,1F468 1F3FE 200D 1F91D 200D 1F468 1F3FB     ,"men holding hands: medium-dark skin tone, light skin tone"
+👨🏾‍🤝‍👨🏼,1F468 1F3FE 200D 1F91D 200D 1F468 1F3FC     ,"men holding hands: medium-dark skin tone, medium-light skin tone"
+👨🏾‍🤝‍👨🏽,1F468 1F3FE 200D 1F91D 200D 1F468 1F3FD     ,"men holding hands: medium-dark skin tone, medium skin tone"
+👨🏾‍🤝‍👨🏿,1F468 1F3FE 200D 1F91D 200D 1F468 1F3FF     ,"men holding hands: medium-dark skin tone, dark skin tone"
+👨🏿‍❤️‍👨🏻,1F468 1F3FF 200D 2764 FE0F 200D 1F468 1F3FB ,"couple with heart: man, man, dark skin tone, light skin tone"
+👨🏿‍❤️‍👨🏼,1F468 1F3FF 200D 2764 FE0F 200D 1F468 1F3FC ,"couple with heart: man, man, dark skin tone, medium-light skin tone"
+👨🏿‍❤️‍👨🏽,1F468 1F3FF 200D 2764 FE0F 200D 1F468 1F3FD ,"couple with heart: man, man, dark skin tone, medium skin tone"
+👨🏿‍❤️‍👨🏾,1F468 1F3FF 200D 2764 FE0F 200D 1F468 1F3FE ,"couple with heart: man, man, dark skin tone, medium-dark skin tone"
+👨🏿‍❤️‍👨🏿,1F468 1F3FF 200D 2764 FE0F 200D 1F468 1F3FF ,"couple with heart: man, man, dark skin tone"
+👨🏿‍❤️‍💋‍👨🏻,1F468 1F3FF 200D 2764 FE0F 200D 1F48B 200D 1F468 1F3FB,"kiss: man, man, dark skin tone, light skin tone"
+👨🏿‍❤️‍💋‍👨🏼,1F468 1F3FF 200D 2764 FE0F 200D 1F48B 200D 1F468 1F3FC,"kiss: man, man, dark skin tone, medium-light skin tone"
+👨🏿‍❤️‍💋‍👨🏽,1F468 1F3FF 200D 2764 FE0F 200D 1F48B 200D 1F468 1F3FD,"kiss: man, man, dark skin tone, medium skin tone"
+👨🏿‍❤️‍💋‍👨🏾,1F468 1F3FF 200D 2764 FE0F 200D 1F48B 200D 1F468 1F3FE,"kiss: man, man, dark skin tone, medium-dark skin tone"
+👨🏿‍❤️‍💋‍👨🏿,1F468 1F3FF 200D 2764 FE0F 200D 1F48B 200D 1F468 1F3FF,"kiss: man, man, dark skin tone"
+👨🏿‍🤝‍👨🏻,1F468 1F3FF 200D 1F91D 200D 1F468 1F3FB     ,"men holding hands: dark skin tone, light skin tone"
+👨🏿‍🤝‍👨🏼,1F468 1F3FF 200D 1F91D 200D 1F468 1F3FC     ,"men holding hands: dark skin tone, medium-light skin tone"
+👨🏿‍🤝‍👨🏽,1F468 1F3FF 200D 1F91D 200D 1F468 1F3FD     ,"men holding hands: dark skin tone, medium skin tone"
+👨🏿‍🤝‍👨🏾,1F468 1F3FF 200D 1F91D 200D 1F468 1F3FE     ,"men holding hands: dark skin tone, medium-dark skin tone"
+👩‍❤️‍👨,1F469 200D 2764 FE0F 200D 1F468             ,"couple with heart: woman, man"
+👩‍❤️‍👩,1F469 200D 2764 FE0F 200D 1F469             ,"couple with heart: woman, woman"
+👩‍❤️‍💋‍👨,1F469 200D 2764 FE0F 200D 1F48B 200D 1F468  ,"kiss: woman, man"
+👩‍❤️‍💋‍👩,1F469 200D 2764 FE0F 200D 1F48B 200D 1F469  ,"kiss: woman, woman"
+👩‍👦,1F469 200D 1F466                            ,"family: woman, boy"
+👩‍👦‍👦,1F469 200D 1F466 200D 1F466                 ,"family: woman, boy, boy"
+👩‍👧,1F469 200D 1F467                            ,"family: woman, girl"
+👩‍👧‍👦,1F469 200D 1F467 200D 1F466                 ,"family: woman, girl, boy"
+👩‍👧‍👧,1F469 200D 1F467 200D 1F467                 ,"family: woman, girl, girl"
+👩‍👩‍👦,1F469 200D 1F469 200D 1F466                 ,"family: woman, woman, boy"
+👩‍👩‍👦‍👦,1F469 200D 1F469 200D 1F466 200D 1F466      ,"family: woman, woman, boy, boy"
+👩‍👩‍👧,1F469 200D 1F469 200D 1F467                 ,"family: woman, woman, girl"
+👩‍👩‍👧‍👦,1F469 200D 1F469 200D 1F467 200D 1F466      ,"family: woman, woman, girl, boy"
+👩‍👩‍👧‍👧,1F469 200D 1F469 200D 1F467 200D 1F467      ,"family: woman, woman, girl, girl"
+👩🏻‍❤️‍👨🏻,1F469 1F3FB 200D 2764 FE0F 200D 1F468 1F3FB ,"couple with heart: woman, man, light skin tone"
+👩🏻‍❤️‍👨🏼,1F469 1F3FB 200D 2764 FE0F 200D 1F468 1F3FC ,"couple with heart: woman, man, light skin tone, medium-light skin tone"
+👩🏻‍❤️‍👨🏽,1F469 1F3FB 200D 2764 FE0F 200D 1F468 1F3FD ,"couple with heart: woman, man, light skin tone, medium skin tone"
+👩🏻‍❤️‍👨🏾,1F469 1F3FB 200D 2764 FE0F 200D 1F468 1F3FE ,"couple with heart: woman, man, light skin tone, medium-dark skin tone"
+👩🏻‍❤️‍👨🏿,1F469 1F3FB 200D 2764 FE0F 200D 1F468 1F3FF ,"couple with heart: woman, man, light skin tone, dark skin tone"
+👩🏻‍❤️‍👩🏻,1F469 1F3FB 200D 2764 FE0F 200D 1F469 1F3FB ,"couple with heart: woman, woman, light skin tone"
+👩🏻‍❤️‍👩🏼,1F469 1F3FB 200D 2764 FE0F 200D 1F469 1F3FC ,"couple with heart: woman, woman, light skin tone, medium-light skin tone"
+👩🏻‍❤️‍👩🏽,1F469 1F3FB 200D 2764 FE0F 200D 1F469 1F3FD ,"couple with heart: woman, woman, light skin tone, medium skin tone"
+👩🏻‍❤️‍👩🏾,1F469 1F3FB 200D 2764 FE0F 200D 1F469 1F3FE ,"couple with heart: woman, woman, light skin tone, medium-dark skin tone"
+👩🏻‍❤️‍👩🏿,1F469 1F3FB 200D 2764 FE0F 200D 1F469 1F3FF ,"couple with heart: woman, woman, light skin tone, dark skin tone"
+👩🏻‍❤️‍💋‍👨🏻,1F469 1F3FB 200D 2764 FE0F 200D 1F48B 200D 1F468 1F3FB,"kiss: woman, man, light skin tone"
+👩🏻‍❤️‍💋‍👨🏼,1F469 1F3FB 200D 2764 FE0F 200D 1F48B 200D 1F468 1F3FC,"kiss: woman, man, light skin tone, medium-light skin tone"
+👩🏻‍❤️‍💋‍👨🏽,1F469 1F3FB 200D 2764 FE0F 200D 1F48B 200D 1F468 1F3FD,"kiss: woman, man, light skin tone, medium skin tone"
+👩🏻‍❤️‍💋‍👨🏾,1F469 1F3FB 200D 2764 FE0F 200D 1F48B 200D 1F468 1F3FE,"kiss: woman, man, light skin tone, medium-dark skin tone"
+👩🏻‍❤️‍💋‍👨🏿,1F469 1F3FB 200D 2764 FE0F 200D 1F48B 200D 1F468 1F3FF,"kiss: woman, man, light skin tone, dark skin tone"
+👩🏻‍❤️‍💋‍👩🏻,1F469 1F3FB 200D 2764 FE0F 200D 1F48B 200D 1F469 1F3FB,"kiss: woman, woman, light skin tone"
+👩🏻‍❤️‍💋‍👩🏼,1F469 1F3FB 200D 2764 FE0F 200D 1F48B 200D 1F469 1F3FC,"kiss: woman, woman, light skin tone, medium-light skin tone"
+👩🏻‍❤️‍💋‍👩🏽,1F469 1F3FB 200D 2764 FE0F 200D 1F48B 200D 1F469 1F3FD,"kiss: woman, woman, light skin tone, medium skin tone"
+👩🏻‍❤️‍💋‍👩🏾,1F469 1F3FB 200D 2764 FE0F 200D 1F48B 200D 1F469 1F3FE,"kiss: woman, woman, light skin tone, medium-dark skin tone"
+👩🏻‍❤️‍💋‍👩🏿,1F469 1F3FB 200D 2764 FE0F 200D 1F48B 200D 1F469 1F3FF,"kiss: woman, woman, light skin tone, dark skin tone"
+👩🏻‍🤝‍👨🏼,1F469 1F3FB 200D 1F91D 200D 1F468 1F3FC     ,"woman and man holding hands: light skin tone, medium-light skin tone"
+👩🏻‍🤝‍👨🏽,1F469 1F3FB 200D 1F91D 200D 1F468 1F3FD     ,"woman and man holding hands: light skin tone, medium skin tone"
+👩🏻‍🤝‍👨🏾,1F469 1F3FB 200D 1F91D 200D 1F468 1F3FE     ,"woman and man holding hands: light skin tone, medium-dark skin tone"
+👩🏻‍🤝‍👨🏿,1F469 1F3FB 200D 1F91D 200D 1F468 1F3FF     ,"woman and man holding hands: light skin tone, dark skin tone"
+👩🏻‍🤝‍👩🏼,1F469 1F3FB 200D 1F91D 200D 1F469 1F3FC     ,"women holding hands: light skin tone, medium-light skin tone"
+👩🏻‍🤝‍👩🏽,1F469 1F3FB 200D 1F91D 200D 1F469 1F3FD     ,"women holding hands: light skin tone, medium skin tone"
+👩🏻‍🤝‍👩🏾,1F469 1F3FB 200D 1F91D 200D 1F469 1F3FE     ,"women holding hands: light skin tone, medium-dark skin tone"
+👩🏻‍🤝‍👩🏿,1F469 1F3FB 200D 1F91D 200D 1F469 1F3FF     ,"women holding hands: light skin tone, dark skin tone"
+👩🏼‍❤️‍👨🏻,1F469 1F3FC 200D 2764 FE0F 200D 1F468 1F3FB ,"couple with heart: woman, man, medium-light skin tone, light skin tone"
+👩🏼‍❤️‍👨🏼,1F469 1F3FC 200D 2764 FE0F 200D 1F468 1F3FC ,"couple with heart: woman, man, medium-light skin tone"
+👩🏼‍❤️‍👨🏽,1F469 1F3FC 200D 2764 FE0F 200D 1F468 1F3FD ,"couple with heart: woman, man, medium-light skin tone, medium skin tone"
+👩🏼‍❤️‍👨🏾,1F469 1F3FC 200D 2764 FE0F 200D 1F468 1F3FE ,"couple with heart: woman, man, medium-light skin tone, medium-dark skin tone"
+👩🏼‍❤️‍👨🏿,1F469 1F3FC 200D 2764 FE0F 200D 1F468 1F3FF ,"couple with heart: woman, man, medium-light skin tone, dark skin tone"
+👩🏼‍❤️‍👩🏻,1F469 1F3FC 200D 2764 FE0F 200D 1F469 1F3FB ,"couple with heart: woman, woman, medium-light skin tone, light skin tone"
+👩🏼‍❤️‍👩🏼,1F469 1F3FC 200D 2764 FE0F 200D 1F469 1F3FC ,"couple with heart: woman, woman, medium-light skin tone"
+👩🏼‍❤️‍👩🏽,1F469 1F3FC 200D 2764 FE0F 200D 1F469 1F3FD ,"couple with heart: woman, woman, medium-light skin tone, medium skin tone"
+👩🏼‍❤️‍👩🏾,1F469 1F3FC 200D 2764 FE0F 200D 1F469 1F3FE ,"couple with heart: woman, woman, medium-light skin tone, medium-dark skin tone"
+👩🏼‍❤️‍👩🏿,1F469 1F3FC 200D 2764 FE0F 200D 1F469 1F3FF ,"couple with heart: woman, woman, medium-light skin tone, dark skin tone"
+👩🏼‍❤️‍💋‍👨🏻,1F469 1F3FC 200D 2764 FE0F 200D 1F48B 200D 1F468 1F3FB,"kiss: woman, man, medium-light skin tone, light skin tone"
+👩🏼‍❤️‍💋‍👨🏼,1F469 1F3FC 200D 2764 FE0F 200D 1F48B 200D 1F468 1F3FC,"kiss: woman, man, medium-light skin tone"
+👩🏼‍❤️‍💋‍👨🏽,1F469 1F3FC 200D 2764 FE0F 200D 1F48B 200D 1F468 1F3FD,"kiss: woman, man, medium-light skin tone, medium skin tone"
+👩🏼‍❤️‍💋‍👨🏾,1F469 1F3FC 200D 2764 FE0F 200D 1F48B 200D 1F468 1F3FE,"kiss: woman, man, medium-light skin tone, medium-dark skin tone"
+👩🏼‍❤️‍💋‍👨🏿,1F469 1F3FC 200D 2764 FE0F 200D 1F48B 200D 1F468 1F3FF,"kiss: woman, man, medium-light skin tone, dark skin tone"
+👩🏼‍❤️‍💋‍👩🏻,1F469 1F3FC 200D 2764 FE0F 200D 1F48B 200D 1F469 1F3FB,"kiss: woman, woman, medium-light skin tone, light skin tone"
+👩🏼‍❤️‍💋‍👩🏼,1F469 1F3FC 200D 2764 FE0F 200D 1F48B 200D 1F469 1F3FC,"kiss: woman, woman, medium-light skin tone"
+👩🏼‍❤️‍💋‍👩🏽,1F469 1F3FC 200D 2764 FE0F 200D 1F48B 200D 1F469 1F3FD,"kiss: woman, woman, medium-light skin tone, medium skin tone"
+👩🏼‍❤️‍💋‍👩🏾,1F469 1F3FC 200D 2764 FE0F 200D 1F48B 200D 1F469 1F3FE,"kiss: woman, woman, medium-light skin tone, medium-dark skin tone"
+👩🏼‍❤️‍💋‍👩🏿,1F469 1F3FC 200D 2764 FE0F 200D 1F48B 200D 1F469 1F3FF,"kiss: woman, woman, medium-light skin tone, dark skin tone"
+👩🏼‍🤝‍👨🏻,1F469 1F3FC 200D 1F91D 200D 1F468 1F3FB     ,"woman and man holding hands: medium-light skin tone, light skin tone"
+👩🏼‍🤝‍👨🏽,1F469 1F3FC 200D 1F91D 200D 1F468 1F3FD     ,"woman and man holding hands: medium-light skin tone, medium skin tone"
+👩🏼‍🤝‍👨🏾,1F469 1F3FC 200D 1F91D 200D 1F468 1F3FE     ,"woman and man holding hands: medium-light skin tone, medium-dark skin tone"
+👩🏼‍🤝‍👨🏿,1F469 1F3FC 200D 1F91D 200D 1F468 1F3FF     ,"woman and man holding hands: medium-light skin tone, dark skin tone"
+👩🏼‍🤝‍👩🏻,1F469 1F3FC 200D 1F91D 200D 1F469 1F3FB     ,"women holding hands: medium-light skin tone, light skin tone"
+👩🏼‍🤝‍👩🏽,1F469 1F3FC 200D 1F91D 200D 1F469 1F3FD     ,"women holding hands: medium-light skin tone, medium skin tone"
+👩🏼‍🤝‍👩🏾,1F469 1F3FC 200D 1F91D 200D 1F469 1F3FE     ,"women holding hands: medium-light skin tone, medium-dark skin tone"
+👩🏼‍🤝‍👩🏿,1F469 1F3FC 200D 1F91D 200D 1F469 1F3FF     ,"women holding hands: medium-light skin tone, dark skin tone"
+👩🏽‍❤️‍👨🏻,1F469 1F3FD 200D 2764 FE0F 200D 1F468 1F3FB ,"couple with heart: woman, man, medium skin tone, light skin tone"
+👩🏽‍❤️‍👨🏼,1F469 1F3FD 200D 2764 FE0F 200D 1F468 1F3FC ,"couple with heart: woman, man, medium skin tone, medium-light skin tone"
+👩🏽‍❤️‍👨🏽,1F469 1F3FD 200D 2764 FE0F 200D 1F468 1F3FD ,"couple with heart: woman, man, medium skin tone"
+👩🏽‍❤️‍👨🏾,1F469 1F3FD 200D 2764 FE0F 200D 1F468 1F3FE ,"couple with heart: woman, man, medium skin tone, medium-dark skin tone"
+👩🏽‍❤️‍👨🏿,1F469 1F3FD 200D 2764 FE0F 200D 1F468 1F3FF ,"couple with heart: woman, man, medium skin tone, dark skin tone"
+👩🏽‍❤️‍👩🏻,1F469 1F3FD 200D 2764 FE0F 200D 1F469 1F3FB ,"couple with heart: woman, woman, medium skin tone, light skin tone"
+👩🏽‍❤️‍👩🏼,1F469 1F3FD 200D 2764 FE0F 200D 1F469 1F3FC ,"couple with heart: woman, woman, medium skin tone, medium-light skin tone"
+👩🏽‍❤️‍👩🏽,1F469 1F3FD 200D 2764 FE0F 200D 1F469 1F3FD ,"couple with heart: woman, woman, medium skin tone"
+👩🏽‍❤️‍👩🏾,1F469 1F3FD 200D 2764 FE0F 200D 1F469 1F3FE ,"couple with heart: woman, woman, medium skin tone, medium-dark skin tone"
+👩🏽‍❤️‍👩🏿,1F469 1F3FD 200D 2764 FE0F 200D 1F469 1F3FF ,"couple with heart: woman, woman, medium skin tone, dark skin tone"
+👩🏽‍❤️‍💋‍👨🏻,1F469 1F3FD 200D 2764 FE0F 200D 1F48B 200D 1F468 1F3FB,"kiss: woman, man, medium skin tone, light skin tone"
+👩🏽‍❤️‍💋‍👨🏼,1F469 1F3FD 200D 2764 FE0F 200D 1F48B 200D 1F468 1F3FC,"kiss: woman, man, medium skin tone, medium-light skin tone"
+👩🏽‍❤️‍💋‍👨🏽,1F469 1F3FD 200D 2764 FE0F 200D 1F48B 200D 1F468 1F3FD,"kiss: woman, man, medium skin tone"
+👩🏽‍❤️‍💋‍👨🏾,1F469 1F3FD 200D 2764 FE0F 200D 1F48B 200D 1F468 1F3FE,"kiss: woman, man, medium skin tone, medium-dark skin tone"
+👩🏽‍❤️‍💋‍👨🏿,1F469 1F3FD 200D 2764 FE0F 200D 1F48B 200D 1F468 1F3FF,"kiss: woman, man, medium skin tone, dark skin tone"
+👩🏽‍❤️‍💋‍👩🏻,1F469 1F3FD 200D 2764 FE0F 200D 1F48B 200D 1F469 1F3FB,"kiss: woman, woman, medium skin tone, light skin tone"
+👩🏽‍❤️‍💋‍👩🏼,1F469 1F3FD 200D 2764 FE0F 200D 1F48B 200D 1F469 1F3FC,"kiss: woman, woman, medium skin tone, medium-light skin tone"
+👩🏽‍❤️‍💋‍👩🏽,1F469 1F3FD 200D 2764 FE0F 200D 1F48B 200D 1F469 1F3FD,"kiss: woman, woman, medium skin tone"
+👩🏽‍❤️‍💋‍👩🏾,1F469 1F3FD 200D 2764 FE0F 200D 1F48B 200D 1F469 1F3FE,"kiss: woman, woman, medium skin tone, medium-dark skin tone"
+👩🏽‍❤️‍💋‍👩🏿,1F469 1F3FD 200D 2764 FE0F 200D 1F48B 200D 1F469 1F3FF,"kiss: woman, woman, medium skin tone, dark skin tone"
+👩🏽‍🤝‍👨🏻,1F469 1F3FD 200D 1F91D 200D 1F468 1F3FB     ,"woman and man holding hands: medium skin tone, light skin tone"
+👩🏽‍🤝‍👨🏼,1F469 1F3FD 200D 1F91D 200D 1F468 1F3FC     ,"woman and man holding hands: medium skin tone, medium-light skin tone"
+👩🏽‍🤝‍👨🏾,1F469 1F3FD 200D 1F91D 200D 1F468 1F3FE     ,"woman and man holding hands: medium skin tone, medium-dark skin tone"
+👩🏽‍🤝‍👨🏿,1F469 1F3FD 200D 1F91D 200D 1F468 1F3FF     ,"woman and man holding hands: medium skin tone, dark skin tone"
+👩🏽‍🤝‍👩🏻,1F469 1F3FD 200D 1F91D 200D 1F469 1F3FB     ,"women holding hands: medium skin tone, light skin tone"
+👩🏽‍🤝‍👩🏼,1F469 1F3FD 200D 1F91D 200D 1F469 1F3FC     ,"women holding hands: medium skin tone, medium-light skin tone"
+👩🏽‍🤝‍👩🏾,1F469 1F3FD 200D 1F91D 200D 1F469 1F3FE     ,"women holding hands: medium skin tone, medium-dark skin tone"
+👩🏽‍🤝‍👩🏿,1F469 1F3FD 200D 1F91D 200D 1F469 1F3FF     ,"women holding hands: medium skin tone, dark skin tone"
+👩🏾‍❤️‍👨🏻,1F469 1F3FE 200D 2764 FE0F 200D 1F468 1F3FB ,"couple with heart: woman, man, medium-dark skin tone, light skin tone"
+👩🏾‍❤️‍👨🏼,1F469 1F3FE 200D 2764 FE0F 200D 1F468 1F3FC ,"couple with heart: woman, man, medium-dark skin tone, medium-light skin tone"
+👩🏾‍❤️‍👨🏽,1F469 1F3FE 200D 2764 FE0F 200D 1F468 1F3FD ,"couple with heart: woman, man, medium-dark skin tone, medium skin tone"
+👩🏾‍❤️‍👨🏾,1F469 1F3FE 200D 2764 FE0F 200D 1F468 1F3FE ,"couple with heart: woman, man, medium-dark skin tone"
+👩🏾‍❤️‍👨🏿,1F469 1F3FE 200D 2764 FE0F 200D 1F468 1F3FF ,"couple with heart: woman, man, medium-dark skin tone, dark skin tone"
+👩🏾‍❤️‍👩🏻,1F469 1F3FE 200D 2764 FE0F 200D 1F469 1F3FB ,"couple with heart: woman, woman, medium-dark skin tone, light skin tone"
+👩🏾‍❤️‍👩🏼,1F469 1F3FE 200D 2764 FE0F 200D 1F469 1F3FC ,"couple with heart: woman, woman, medium-dark skin tone, medium-light skin tone"
+👩🏾‍❤️‍👩🏽,1F469 1F3FE 200D 2764 FE0F 200D 1F469 1F3FD ,"couple with heart: woman, woman, medium-dark skin tone, medium skin tone"
+👩🏾‍❤️‍👩🏾,1F469 1F3FE 200D 2764 FE0F 200D 1F469 1F3FE ,"couple with heart: woman, woman, medium-dark skin tone"
+👩🏾‍❤️‍👩🏿,1F469 1F3FE 200D 2764 FE0F 200D 1F469 1F3FF ,"couple with heart: woman, woman, medium-dark skin tone, dark skin tone"
+👩🏾‍❤️‍💋‍👨🏻,1F469 1F3FE 200D 2764 FE0F 200D 1F48B 200D 1F468 1F3FB,"kiss: woman, man, medium-dark skin tone, light skin tone"
+👩🏾‍❤️‍💋‍👨🏼,1F469 1F3FE 200D 2764 FE0F 200D 1F48B 200D 1F468 1F3FC,"kiss: woman, man, medium-dark skin tone, medium-light skin tone"
+👩🏾‍❤️‍💋‍👨🏽,1F469 1F3FE 200D 2764 FE0F 200D 1F48B 200D 1F468 1F3FD,"kiss: woman, man, medium-dark skin tone, medium skin tone"
+👩🏾‍❤️‍💋‍👨🏾,1F469 1F3FE 200D 2764 FE0F 200D 1F48B 200D 1F468 1F3FE,"kiss: woman, man, medium-dark skin tone"
+👩🏾‍❤️‍💋‍👨🏿,1F469 1F3FE 200D 2764 FE0F 200D 1F48B 200D 1F468 1F3FF,"kiss: woman, man, medium-dark skin tone, dark skin tone"
+👩🏾‍❤️‍💋‍👩🏻,1F469 1F3FE 200D 2764 FE0F 200D 1F48B 200D 1F469 1F3FB,"kiss: woman, woman, medium-dark skin tone, light skin tone"
+👩🏾‍❤️‍💋‍👩🏼,1F469 1F3FE 200D 2764 FE0F 200D 1F48B 200D 1F469 1F3FC,"kiss: woman, woman, medium-dark skin tone, medium-light skin tone"
+👩🏾‍❤️‍💋‍👩🏽,1F469 1F3FE 200D 2764 FE0F 200D 1F48B 200D 1F469 1F3FD,"kiss: woman, woman, medium-dark skin tone, medium skin tone"
+👩🏾‍❤️‍💋‍👩🏾,1F469 1F3FE 200D 2764 FE0F 200D 1F48B 200D 1F469 1F3FE,"kiss: woman, woman, medium-dark skin tone"
+👩🏾‍❤️‍💋‍👩🏿,1F469 1F3FE 200D 2764 FE0F 200D 1F48B 200D 1F469 1F3FF,"kiss: woman, woman, medium-dark skin tone, dark skin tone"
+👩🏾‍🤝‍👨🏻,1F469 1F3FE 200D 1F91D 200D 1F468 1F3FB     ,"woman and man holding hands: medium-dark skin tone, light skin tone"
+👩🏾‍🤝‍👨🏼,1F469 1F3FE 200D 1F91D 200D 1F468 1F3FC     ,"woman and man holding hands: medium-dark skin tone, medium-light skin tone"
+👩🏾‍🤝‍👨🏽,1F469 1F3FE 200D 1F91D 200D 1F468 1F3FD     ,"woman and man holding hands: medium-dark skin tone, medium skin tone"
+👩🏾‍🤝‍👨🏿,1F469 1F3FE 200D 1F91D 200D 1F468 1F3FF     ,"woman and man holding hands: medium-dark skin tone, dark skin tone"
+👩🏾‍🤝‍👩🏻,1F469 1F3FE 200D 1F91D 200D 1F469 1F3FB     ,"women holding hands: medium-dark skin tone, light skin tone"
+👩🏾‍🤝‍👩🏼,1F469 1F3FE 200D 1F91D 200D 1F469 1F3FC     ,"women holding hands: medium-dark skin tone, medium-light skin tone"
+👩🏾‍🤝‍👩🏽,1F469 1F3FE 200D 1F91D 200D 1F469 1F3FD     ,"women holding hands: medium-dark skin tone, medium skin tone"
+👩🏾‍🤝‍👩🏿,1F469 1F3FE 200D 1F91D 200D 1F469 1F3FF     ,"women holding hands: medium-dark skin tone, dark skin tone"
+👩🏿‍❤️‍👨🏻,1F469 1F3FF 200D 2764 FE0F 200D 1F468 1F3FB ,"couple with heart: woman, man, dark skin tone, light skin tone"
+👩🏿‍❤️‍👨🏼,1F469 1F3FF 200D 2764 FE0F 200D 1F468 1F3FC ,"couple with heart: woman, man, dark skin tone, medium-light skin tone"
+👩🏿‍❤️‍👨🏽,1F469 1F3FF 200D 2764 FE0F 200D 1F468 1F3FD ,"couple with heart: woman, man, dark skin tone, medium skin tone"
+👩🏿‍❤️‍👨🏾,1F469 1F3FF 200D 2764 FE0F 200D 1F468 1F3FE ,"couple with heart: woman, man, dark skin tone, medium-dark skin tone"
+👩🏿‍❤️‍👨🏿,1F469 1F3FF 200D 2764 FE0F 200D 1F468 1F3FF ,"couple with heart: woman, man, dark skin tone"
+👩🏿‍❤️‍👩🏻,1F469 1F3FF 200D 2764 FE0F 200D 1F469 1F3FB ,"couple with heart: woman, woman, dark skin tone, light skin tone"
+👩🏿‍❤️‍👩🏼,1F469 1F3FF 200D 2764 FE0F 200D 1F469 1F3FC ,"couple with heart: woman, woman, dark skin tone, medium-light skin tone"
+👩🏿‍❤️‍👩🏽,1F469 1F3FF 200D 2764 FE0F 200D 1F469 1F3FD ,"couple with heart: woman, woman, dark skin tone, medium skin tone"
+👩🏿‍❤️‍👩🏾,1F469 1F3FF 200D 2764 FE0F 200D 1F469 1F3FE ,"couple with heart: woman, woman, dark skin tone, medium-dark skin tone"
+👩🏿‍❤️‍👩🏿,1F469 1F3FF 200D 2764 FE0F 200D 1F469 1F3FF ,"couple with heart: woman, woman, dark skin tone"
+👩🏿‍❤️‍💋‍👨🏻,1F469 1F3FF 200D 2764 FE0F 200D 1F48B 200D 1F468 1F3FB,"kiss: woman, man, dark skin tone, light skin tone"
+👩🏿‍❤️‍💋‍👨🏼,1F469 1F3FF 200D 2764 FE0F 200D 1F48B 200D 1F468 1F3FC,"kiss: woman, man, dark skin tone, medium-light skin tone"
+👩🏿‍❤️‍💋‍👨🏽,1F469 1F3FF 200D 2764 FE0F 200D 1F48B 200D 1F468 1F3FD,"kiss: woman, man, dark skin tone, medium skin tone"
+👩🏿‍❤️‍💋‍👨🏾,1F469 1F3FF 200D 2764 FE0F 200D 1F48B 200D 1F468 1F3FE,"kiss: woman, man, dark skin tone, medium-dark skin tone"
+👩🏿‍❤️‍💋‍👨🏿,1F469 1F3FF 200D 2764 FE0F 200D 1F48B 200D 1F468 1F3FF,"kiss: woman, man, dark skin tone"
+👩🏿‍❤️‍💋‍👩🏻,1F469 1F3FF 200D 2764 FE0F 200D 1F48B 200D 1F469 1F3FB,"kiss: woman, woman, dark skin tone, light skin tone"
+👩🏿‍❤️‍💋‍👩🏼,1F469 1F3FF 200D 2764 FE0F 200D 1F48B 200D 1F469 1F3FC,"kiss: woman, woman, dark skin tone, medium-light skin tone"
+👩🏿‍❤️‍💋‍👩🏽,1F469 1F3FF 200D 2764 FE0F 200D 1F48B 200D 1F469 1F3FD,"kiss: woman, woman, dark skin tone, medium skin tone"
+👩🏿‍❤️‍💋‍👩🏾,1F469 1F3FF 200D 2764 FE0F 200D 1F48B 200D 1F469 1F3FE,"kiss: woman, woman, dark skin tone, medium-dark skin tone"
+👩🏿‍❤️‍💋‍👩🏿,1F469 1F3FF 200D 2764 FE0F 200D 1F48B 200D 1F469 1F3FF,"kiss: woman, woman, dark skin tone"
+👩🏿‍🤝‍👨🏻,1F469 1F3FF 200D 1F91D 200D 1F468 1F3FB     ,"woman and man holding hands: dark skin tone, light skin tone"
+👩🏿‍🤝‍👨🏼,1F469 1F3FF 200D 1F91D 200D 1F468 1F3FC     ,"woman and man holding hands: dark skin tone, medium-light skin tone"
+👩🏿‍🤝‍👨🏽,1F469 1F3FF 200D 1F91D 200D 1F468 1F3FD     ,"woman and man holding hands: dark skin tone, medium skin tone"
+👩🏿‍🤝‍👨🏾,1F469 1F3FF 200D 1F91D 200D 1F468 1F3FE     ,"woman and man holding hands: dark skin tone, medium-dark skin tone"
+👩🏿‍🤝‍👩🏻,1F469 1F3FF 200D 1F91D 200D 1F469 1F3FB     ,"women holding hands: dark skin tone, light skin tone"
+👩🏿‍🤝‍👩🏼,1F469 1F3FF 200D 1F91D 200D 1F469 1F3FC     ,"women holding hands: dark skin tone, medium-light skin tone"
+👩🏿‍🤝‍👩🏽,1F469 1F3FF 200D 1F91D 200D 1F469 1F3FD     ,"women holding hands: dark skin tone, medium skin tone"
+👩🏿‍🤝‍👩🏾,1F469 1F3FF 200D 1F91D 200D 1F469 1F3FE     ,"women holding hands: dark skin tone, medium-dark skin tone"
+🧑‍🤝‍🧑,1F9D1 200D 1F91D 200D 1F9D1                 ,people holding hands
+🧑‍🧑‍🧒,1F9D1 200D 1F9D1 200D 1F9D2                 ,"family: adult, adult, child"
+🧑‍🧑‍🧒‍🧒,1F9D1 200D 1F9D1 200D 1F9D2 200D 1F9D2      ,"family: adult, adult, child, child"
+🧑‍🧒,1F9D1 200D 1F9D2                            ,"family: adult, child"
+🧑‍🧒‍🧒,1F9D1 200D 1F9D2 200D 1F9D2                 ,"family: adult, child, child"
+🧑🏻‍❤️‍💋‍🧑🏼,1F9D1 1F3FB 200D 2764 FE0F 200D 1F48B 200D 1F9D1 1F3FC,"kiss: person, person, light skin tone, medium-light skin tone"
+🧑🏻‍❤️‍💋‍🧑🏽,1F9D1 1F3FB 200D 2764 FE0F 200D 1F48B 200D 1F9D1 1F3FD,"kiss: person, person, light skin tone, medium skin tone"
+🧑🏻‍❤️‍💋‍🧑🏾,1F9D1 1F3FB 200D 2764 FE0F 200D 1F48B 200D 1F9D1 1F3FE,"kiss: person, person, light skin tone, medium-dark skin tone"
+🧑🏻‍❤️‍💋‍🧑🏿,1F9D1 1F3FB 200D 2764 FE0F 200D 1F48B 200D 1F9D1 1F3FF,"kiss: person, person, light skin tone, dark skin tone"
+🧑🏻‍❤️‍🧑🏼,1F9D1 1F3FB 200D 2764 FE0F 200D 1F9D1 1F3FC ,"couple with heart: person, person, light skin tone, medium-light skin tone"
+🧑🏻‍❤️‍🧑🏽,1F9D1 1F3FB 200D 2764 FE0F 200D 1F9D1 1F3FD ,"couple with heart: person, person, light skin tone, medium skin tone"
+🧑🏻‍❤️‍🧑🏾,1F9D1 1F3FB 200D 2764 FE0F 200D 1F9D1 1F3FE ,"couple with heart: person, person, light skin tone, medium-dark skin tone"
+🧑🏻‍❤️‍🧑🏿,1F9D1 1F3FB 200D 2764 FE0F 200D 1F9D1 1F3FF ,"couple with heart: person, person, light skin tone, dark skin tone"
+🧑🏻‍🤝‍🧑🏻,1F9D1 1F3FB 200D 1F91D 200D 1F9D1 1F3FB     ,people holding hands: light skin tone
+🧑🏻‍🤝‍🧑🏼,1F9D1 1F3FB 200D 1F91D 200D 1F9D1 1F3FC     ,"people holding hands: light skin tone, medium-light skin tone"
+🧑🏻‍🤝‍🧑🏽,1F9D1 1F3FB 200D 1F91D 200D 1F9D1 1F3FD     ,"people holding hands: light skin tone, medium skin tone"
+🧑🏻‍🤝‍🧑🏾,1F9D1 1F3FB 200D 1F91D 200D 1F9D1 1F3FE     ,"people holding hands: light skin tone, medium-dark skin tone"
+🧑🏻‍🤝‍🧑🏿,1F9D1 1F3FB 200D 1F91D 200D 1F9D1 1F3FF     ,"people holding hands: light skin tone, dark skin tone"
+🧑🏼‍❤️‍💋‍🧑🏻,1F9D1 1F3FC 200D 2764 FE0F 200D 1F48B 200D 1F9D1 1F3FB,"kiss: person, person, medium-light skin tone, light skin tone"
+🧑🏼‍❤️‍💋‍🧑🏽,1F9D1 1F3FC 200D 2764 FE0F 200D 1F48B 200D 1F9D1 1F3FD,"kiss: person, person, medium-light skin tone, medium skin tone"
+🧑🏼‍❤️‍💋‍🧑🏾,1F9D1 1F3FC 200D 2764 FE0F 200D 1F48B 200D 1F9D1 1F3FE,"kiss: person, person, medium-light skin tone, medium-dark skin tone"
+🧑🏼‍❤️‍💋‍🧑🏿,1F9D1 1F3FC 200D 2764 FE0F 200D 1F48B 200D 1F9D1 1F3FF,"kiss: person, person, medium-light skin tone, dark skin tone"
+🧑🏼‍❤️‍🧑🏻,1F9D1 1F3FC 200D 2764 FE0F 200D 1F9D1 1F3FB ,"couple with heart: person, person, medium-light skin tone, light skin tone"
+🧑🏼‍❤️‍🧑🏽,1F9D1 1F3FC 200D 2764 FE0F 200D 1F9D1 1F3FD ,"couple with heart: person, person, medium-light skin tone, medium skin tone"
+🧑🏼‍❤️‍🧑🏾,1F9D1 1F3FC 200D 2764 FE0F 200D 1F9D1 1F3FE ,"couple with heart: person, person, medium-light skin tone, medium-dark skin tone"
+🧑🏼‍❤️‍🧑🏿,1F9D1 1F3FC 200D 2764 FE0F 200D 1F9D1 1F3FF ,"couple with heart: person, person, medium-light skin tone, dark skin tone"
+🧑🏼‍🤝‍🧑🏻,1F9D1 1F3FC 200D 1F91D 200D 1F9D1 1F3FB     ,"people holding hands: medium-light skin tone, light skin tone"
+🧑🏼‍🤝‍🧑🏼,1F9D1 1F3FC 200D 1F91D 200D 1F9D1 1F3FC     ,people holding hands: medium-light skin tone
+🧑🏼‍🤝‍🧑🏽,1F9D1 1F3FC 200D 1F91D 200D 1F9D1 1F3FD     ,"people holding hands: medium-light skin tone, medium skin tone"
+🧑🏼‍🤝‍🧑🏾,1F9D1 1F3FC 200D 1F91D 200D 1F9D1 1F3FE     ,"people holding hands: medium-light skin tone, medium-dark skin tone"
+🧑🏼‍🤝‍🧑🏿,1F9D1 1F3FC 200D 1F91D 200D 1F9D1 1F3FF     ,"people holding hands: medium-light skin tone, dark skin tone"
+🧑🏽‍❤️‍💋‍🧑🏻,1F9D1 1F3FD 200D 2764 FE0F 200D 1F48B 200D 1F9D1 1F3FB,"kiss: person, person, medium skin tone, light skin tone"
+🧑🏽‍❤️‍💋‍🧑🏼,1F9D1 1F3FD 200D 2764 FE0F 200D 1F48B 200D 1F9D1 1F3FC,"kiss: person, person, medium skin tone, medium-light skin tone"
+🧑🏽‍❤️‍💋‍🧑🏾,1F9D1 1F3FD 200D 2764 FE0F 200D 1F48B 200D 1F9D1 1F3FE,"kiss: person, person, medium skin tone, medium-dark skin tone"
+🧑🏽‍❤️‍💋‍🧑🏿,1F9D1 1F3FD 200D 2764 FE0F 200D 1F48B 200D 1F9D1 1F3FF,"kiss: person, person, medium skin tone, dark skin tone"
+🧑🏽‍❤️‍🧑🏻,1F9D1 1F3FD 200D 2764 FE0F 200D 1F9D1 1F3FB ,"couple with heart: person, person, medium skin tone, light skin tone"
+🧑🏽‍❤️‍🧑🏼,1F9D1 1F3FD 200D 2764 FE0F 200D 1F9D1 1F3FC ,"couple with heart: person, person, medium skin tone, medium-light skin tone"
+🧑🏽‍❤️‍🧑🏾,1F9D1 1F3FD 200D 2764 FE0F 200D 1F9D1 1F3FE ,"couple with heart: person, person, medium skin tone, medium-dark skin tone"
+🧑🏽‍❤️‍🧑🏿,1F9D1 1F3FD 200D 2764 FE0F 200D 1F9D1 1F3FF ,"couple with heart: person, person, medium skin tone, dark skin tone"
+🧑🏽‍🤝‍🧑🏻,1F9D1 1F3FD 200D 1F91D 200D 1F9D1 1F3FB     ,"people holding hands: medium skin tone, light skin tone"
+🧑🏽‍🤝‍🧑🏼,1F9D1 1F3FD 200D 1F91D 200D 1F9D1 1F3FC     ,"people holding hands: medium skin tone, medium-light skin tone"
+🧑🏽‍🤝‍🧑🏽,1F9D1 1F3FD 200D 1F91D 200D 1F9D1 1F3FD     ,people holding hands: medium skin tone
+🧑🏽‍🤝‍🧑🏾,1F9D1 1F3FD 200D 1F91D 200D 1F9D1 1F3FE     ,"people holding hands: medium skin tone, medium-dark skin tone"
+🧑🏽‍🤝‍🧑🏿,1F9D1 1F3FD 200D 1F91D 200D 1F9D1 1F3FF     ,"people holding hands: medium skin tone, dark skin tone"
+🧑🏾‍❤️‍💋‍🧑🏻,1F9D1 1F3FE 200D 2764 FE0F 200D 1F48B 200D 1F9D1 1F3FB,"kiss: person, person, medium-dark skin tone, light skin tone"
+🧑🏾‍❤️‍💋‍🧑🏼,1F9D1 1F3FE 200D 2764 FE0F 200D 1F48B 200D 1F9D1 1F3FC,"kiss: person, person, medium-dark skin tone, medium-light skin tone"
+🧑🏾‍❤️‍💋‍🧑🏽,1F9D1 1F3FE 200D 2764 FE0F 200D 1F48B 200D 1F9D1 1F3FD,"kiss: person, person, medium-dark skin tone, medium skin tone"
+🧑🏾‍❤️‍💋‍🧑🏿,1F9D1 1F3FE 200D 2764 FE0F 200D 1F48B 200D 1F9D1 1F3FF,"kiss: person, person, medium-dark skin tone, dark skin tone"
+🧑🏾‍❤️‍🧑🏻,1F9D1 1F3FE 200D 2764 FE0F 200D 1F9D1 1F3FB ,"couple with heart: person, person, medium-dark skin tone, light skin tone"
+🧑🏾‍❤️‍🧑🏼,1F9D1 1F3FE 200D 2764 FE0F 200D 1F9D1 1F3FC ,"couple with heart: person, person, medium-dark skin tone, medium-light skin tone"
+🧑🏾‍❤️‍🧑🏽,1F9D1 1F3FE 200D 2764 FE0F 200D 1F9D1 1F3FD ,"couple with heart: person, person, medium-dark skin tone, medium skin tone"
+🧑🏾‍❤️‍🧑🏿,1F9D1 1F3FE 200D 2764 FE0F 200D 1F9D1 1F3FF ,"couple with heart: person, person, medium-dark skin tone, dark skin tone"
+🧑🏾‍🤝‍🧑🏻,1F9D1 1F3FE 200D 1F91D 200D 1F9D1 1F3FB     ,"people holding hands: medium-dark skin tone, light skin tone"
+🧑🏾‍🤝‍🧑🏼,1F9D1 1F3FE 200D 1F91D 200D 1F9D1 1F3FC     ,"people holding hands: medium-dark skin tone, medium-light skin tone"
+🧑🏾‍🤝‍🧑🏽,1F9D1 1F3FE 200D 1F91D 200D 1F9D1 1F3FD     ,"people holding hands: medium-dark skin tone, medium skin tone"
+🧑🏾‍🤝‍🧑🏾,1F9D1 1F3FE 200D 1F91D 200D 1F9D1 1F3FE     ,people holding hands: medium-dark skin tone
+🧑🏾‍🤝‍🧑🏿,1F9D1 1F3FE 200D 1F91D 200D 1F9D1 1F3FF     ,"people holding hands: medium-dark skin tone, dark skin tone"
+🧑🏿‍❤️‍💋‍🧑🏻,1F9D1 1F3FF 200D 2764 FE0F 200D 1F48B 200D 1F9D1 1F3FB,"kiss: person, person, dark skin tone, light skin tone"
+🧑🏿‍❤️‍💋‍🧑🏼,1F9D1 1F3FF 200D 2764 FE0F 200D 1F48B 200D 1F9D1 1F3FC,"kiss: person, person, dark skin tone, medium-light skin tone"
+🧑🏿‍❤️‍💋‍🧑🏽,1F9D1 1F3FF 200D 2764 FE0F 200D 1F48B 200D 1F9D1 1F3FD,"kiss: person, person, dark skin tone, medium skin tone"
+🧑🏿‍❤️‍💋‍🧑🏾,1F9D1 1F3FF 200D 2764 FE0F 200D 1F48B 200D 1F9D1 1F3FE,"kiss: person, person, dark skin tone, medium-dark skin tone"
+🧑🏿‍❤️‍🧑🏻,1F9D1 1F3FF 200D 2764 FE0F 200D 1F9D1 1F3FB ,"couple with heart: person, person, dark skin tone, light skin tone"
+🧑🏿‍❤️‍🧑🏼,1F9D1 1F3FF 200D 2764 FE0F 200D 1F9D1 1F3FC ,"couple with heart: person, person, dark skin tone, medium-light skin tone"
+🧑🏿‍❤️‍🧑🏽,1F9D1 1F3FF 200D 2764 FE0F 200D 1F9D1 1F3FD ,"couple with heart: person, person, dark skin tone, medium skin tone"
+🧑🏿‍❤️‍🧑🏾,1F9D1 1F3FF 200D 2764 FE0F 200D 1F9D1 1F3FE ,"couple with heart: person, person, dark skin tone, medium-dark skin tone"
+🧑🏿‍🤝‍🧑🏻,1F9D1 1F3FF 200D 1F91D 200D 1F9D1 1F3FB     ,"people holding hands: dark skin tone, light skin tone"
+🧑🏿‍🤝‍🧑🏼,1F9D1 1F3FF 200D 1F91D 200D 1F9D1 1F3FC     ,"people holding hands: dark skin tone, medium-light skin tone"
+🧑🏿‍🤝‍🧑🏽,1F9D1 1F3FF 200D 1F91D 200D 1F9D1 1F3FD     ,"people holding hands: dark skin tone, medium skin tone"
+🧑🏿‍🤝‍🧑🏾,1F9D1 1F3FF 200D 1F91D 200D 1F9D1 1F3FE     ,"people holding hands: dark skin tone, medium-dark skin tone"
+🧑🏿‍🤝‍🧑🏿,1F9D1 1F3FF 200D 1F91D 200D 1F9D1 1F3FF     ,people holding hands: dark skin tone
+🫱🏻‍🫲🏼,1FAF1 1F3FB 200D 1FAF2 1F3FC                ,"handshake: light skin tone, medium-light skin tone"
+🫱🏻‍🫲🏽,1FAF1 1F3FB 200D 1FAF2 1F3FD                ,"handshake: light skin tone, medium skin tone"
+🫱🏻‍🫲🏾,1FAF1 1F3FB 200D 1FAF2 1F3FE                ,"handshake: light skin tone, medium-dark skin tone"
+🫱🏻‍🫲🏿,1FAF1 1F3FB 200D 1FAF2 1F3FF                ,"handshake: light skin tone, dark skin tone"
+🫱🏼‍🫲🏻,1FAF1 1F3FC 200D 1FAF2 1F3FB                ,"handshake: medium-light skin tone, light skin tone"
+🫱🏼‍🫲🏽,1FAF1 1F3FC 200D 1FAF2 1F3FD                ,"handshake: medium-light skin tone, medium skin tone"
+🫱🏼‍🫲🏾,1FAF1 1F3FC 200D 1FAF2 1F3FE                ,"handshake: medium-light skin tone, medium-dark skin tone"
+🫱🏼‍🫲🏿,1FAF1 1F3FC 200D 1FAF2 1F3FF                ,"handshake: medium-light skin tone, dark skin tone"
+🫱🏽‍🫲🏻,1FAF1 1F3FD 200D 1FAF2 1F3FB                ,"handshake: medium skin tone, light skin tone"
+🫱🏽‍🫲🏼,1FAF1 1F3FD 200D 1FAF2 1F3FC                ,"handshake: medium skin tone, medium-light skin tone"
+🫱🏽‍🫲🏾,1FAF1 1F3FD 200D 1FAF2 1F3FE                ,"handshake: medium skin tone, medium-dark skin tone"
+🫱🏽‍🫲🏿,1FAF1 1F3FD 200D 1FAF2 1F3FF                ,"handshake: medium skin tone, dark skin tone"
+🫱🏾‍🫲🏻,1FAF1 1F3FE 200D 1FAF2 1F3FB                ,"handshake: medium-dark skin tone, light skin tone"
+🫱🏾‍🫲🏼,1FAF1 1F3FE 200D 1FAF2 1F3FC                ,"handshake: medium-dark skin tone, medium-light skin tone"
+🫱🏾‍🫲🏽,1FAF1 1F3FE 200D 1FAF2 1F3FD                ,"handshake: medium-dark skin tone, medium skin tone"
+🫱🏾‍🫲🏿,1FAF1 1F3FE 200D 1FAF2 1F3FF                ,"handshake: medium-dark skin tone, dark skin tone"
+🫱🏿‍🫲🏻,1FAF1 1F3FF 200D 1FAF2 1F3FB                ,"handshake: dark skin tone, light skin tone"
+🫱🏿‍🫲🏼,1FAF1 1F3FF 200D 1FAF2 1F3FC                ,"handshake: dark skin tone, medium-light skin tone"
+🫱🏿‍🫲🏽,1FAF1 1F3FF 200D 1FAF2 1F3FD                ,"handshake: dark skin tone, medium skin tone"
+🫱🏿‍🫲🏾,1FAF1 1F3FF 200D 1FAF2 1F3FE                ,"handshake: dark skin tone, medium-dark skin tone"
+🏃‍➡️,1F3C3 200D 27A1 FE0F                        ,person running facing right
+🏃🏻‍➡️,1F3C3 1F3FB 200D 27A1 FE0F                  ,person running facing right: light skin tone
+🏃🏼‍➡️,1F3C3 1F3FC 200D 27A1 FE0F                  ,person running facing right: medium-light skin tone
+🏃🏽‍➡️,1F3C3 1F3FD 200D 27A1 FE0F                  ,person running facing right: medium skin tone
+🏃🏾‍➡️,1F3C3 1F3FE 200D 27A1 FE0F                  ,person running facing right: medium-dark skin tone
+🏃🏿‍➡️,1F3C3 1F3FF 200D 27A1 FE0F                  ,person running facing right: dark skin tone
+👨‍⚕️,1F468 200D 2695 FE0F                        ,man health worker
+👨‍⚖️,1F468 200D 2696 FE0F                        ,man judge
+👨‍✈️,1F468 200D 2708 FE0F                        ,man pilot
+👨‍🌾,1F468 200D 1F33E                            ,man farmer
+👨‍🍳,1F468 200D 1F373                            ,man cook
+👨‍🍼,1F468 200D 1F37C                            ,man feeding baby
+👨‍🎓,1F468 200D 1F393                            ,man student
+👨‍🎤,1F468 200D 1F3A4                            ,man singer
+👨‍🎨,1F468 200D 1F3A8                            ,man artist
+👨‍🏫,1F468 200D 1F3EB                            ,man teacher
+👨‍🏭,1F468 200D 1F3ED                            ,man factory worker
+👨‍💻,1F468 200D 1F4BB                            ,man technologist
+👨‍💼,1F468 200D 1F4BC                            ,man office worker
+👨‍🔧,1F468 200D 1F527                            ,man mechanic
+👨‍🔬,1F468 200D 1F52C                            ,man scientist
+👨‍🚀,1F468 200D 1F680                            ,man astronaut
+👨‍🚒,1F468 200D 1F692                            ,man firefighter
+👨‍🦯,1F468 200D 1F9AF                            ,man with white cane
+👨‍🦯‍➡️,1F468 200D 1F9AF 200D 27A1 FE0F             ,man with white cane facing right
+👨‍🦼,1F468 200D 1F9BC                            ,man in motorized wheelchair
+👨‍🦼‍➡️,1F468 200D 1F9BC 200D 27A1 FE0F             ,man in motorized wheelchair facing right
+👨‍🦽,1F468 200D 1F9BD                            ,man in manual wheelchair
+👨‍🦽‍➡️,1F468 200D 1F9BD 200D 27A1 FE0F             ,man in manual wheelchair facing right
+👨🏻‍⚕️,1F468 1F3FB 200D 2695 FE0F                  ,man health worker: light skin tone
+👨🏻‍⚖️,1F468 1F3FB 200D 2696 FE0F                  ,man judge: light skin tone
+👨🏻‍✈️,1F468 1F3FB 200D 2708 FE0F                  ,man pilot: light skin tone
+👨🏻‍🌾,1F468 1F3FB 200D 1F33E                      ,man farmer: light skin tone
+👨🏻‍🍳,1F468 1F3FB 200D 1F373                      ,man cook: light skin tone
+👨🏻‍🍼,1F468 1F3FB 200D 1F37C                      ,man feeding baby: light skin tone
+👨🏻‍🎓,1F468 1F3FB 200D 1F393                      ,man student: light skin tone
+👨🏻‍🎤,1F468 1F3FB 200D 1F3A4                      ,man singer: light skin tone
+👨🏻‍🎨,1F468 1F3FB 200D 1F3A8                      ,man artist: light skin tone
+👨🏻‍🏫,1F468 1F3FB 200D 1F3EB                      ,man teacher: light skin tone
+👨🏻‍🏭,1F468 1F3FB 200D 1F3ED                      ,man factory worker: light skin tone
+👨🏻‍💻,1F468 1F3FB 200D 1F4BB                      ,man technologist: light skin tone
+👨🏻‍💼,1F468 1F3FB 200D 1F4BC                      ,man office worker: light skin tone
+👨🏻‍🔧,1F468 1F3FB 200D 1F527                      ,man mechanic: light skin tone
+👨🏻‍🔬,1F468 1F3FB 200D 1F52C                      ,man scientist: light skin tone
+👨🏻‍🚀,1F468 1F3FB 200D 1F680                      ,man astronaut: light skin tone
+👨🏻‍🚒,1F468 1F3FB 200D 1F692                      ,man firefighter: light skin tone
+👨🏻‍🦯,1F468 1F3FB 200D 1F9AF                      ,man with white cane: light skin tone
+👨🏻‍🦯‍➡️,1F468 1F3FB 200D 1F9AF 200D 27A1 FE0F       ,man with white cane facing right: light skin tone
+👨🏻‍🦼,1F468 1F3FB 200D 1F9BC                      ,man in motorized wheelchair: light skin tone
+👨🏻‍🦼‍➡️,1F468 1F3FB 200D 1F9BC 200D 27A1 FE0F       ,man in motorized wheelchair facing right: light skin tone
+👨🏻‍🦽,1F468 1F3FB 200D 1F9BD                      ,man in manual wheelchair: light skin tone
+👨🏻‍🦽‍➡️,1F468 1F3FB 200D 1F9BD 200D 27A1 FE0F       ,man in manual wheelchair facing right: light skin tone
+👨🏼‍⚕️,1F468 1F3FC 200D 2695 FE0F                  ,man health worker: medium-light skin tone
+👨🏼‍⚖️,1F468 1F3FC 200D 2696 FE0F                  ,man judge: medium-light skin tone
+👨🏼‍✈️,1F468 1F3FC 200D 2708 FE0F                  ,man pilot: medium-light skin tone
+👨🏼‍🌾,1F468 1F3FC 200D 1F33E                      ,man farmer: medium-light skin tone
+👨🏼‍🍳,1F468 1F3FC 200D 1F373                      ,man cook: medium-light skin tone
+👨🏼‍🍼,1F468 1F3FC 200D 1F37C                      ,man feeding baby: medium-light skin tone
+👨🏼‍🎓,1F468 1F3FC 200D 1F393                      ,man student: medium-light skin tone
+👨🏼‍🎤,1F468 1F3FC 200D 1F3A4                      ,man singer: medium-light skin tone
+👨🏼‍🎨,1F468 1F3FC 200D 1F3A8                      ,man artist: medium-light skin tone
+👨🏼‍🏫,1F468 1F3FC 200D 1F3EB                      ,man teacher: medium-light skin tone
+👨🏼‍🏭,1F468 1F3FC 200D 1F3ED                      ,man factory worker: medium-light skin tone
+👨🏼‍💻,1F468 1F3FC 200D 1F4BB                      ,man technologist: medium-light skin tone
+👨🏼‍💼,1F468 1F3FC 200D 1F4BC                      ,man office worker: medium-light skin tone
+👨🏼‍🔧,1F468 1F3FC 200D 1F527                      ,man mechanic: medium-light skin tone
+👨🏼‍🔬,1F468 1F3FC 200D 1F52C                      ,man scientist: medium-light skin tone
+👨🏼‍🚀,1F468 1F3FC 200D 1F680                      ,man astronaut: medium-light skin tone
+👨🏼‍🚒,1F468 1F3FC 200D 1F692                      ,man firefighter: medium-light skin tone
+👨🏼‍🦯,1F468 1F3FC 200D 1F9AF                      ,man with white cane: medium-light skin tone
+👨🏼‍🦯‍➡️,1F468 1F3FC 200D 1F9AF 200D 27A1 FE0F       ,man with white cane facing right: medium-light skin tone
+👨🏼‍🦼,1F468 1F3FC 200D 1F9BC                      ,man in motorized wheelchair: medium-light skin tone
+👨🏼‍🦼‍➡️,1F468 1F3FC 200D 1F9BC 200D 27A1 FE0F       ,man in motorized wheelchair facing right: medium-light skin tone
+👨🏼‍🦽,1F468 1F3FC 200D 1F9BD                      ,man in manual wheelchair: medium-light skin tone
+👨🏼‍🦽‍➡️,1F468 1F3FC 200D 1F9BD 200D 27A1 FE0F       ,man in manual wheelchair facing right: medium-light skin tone
+👨🏽‍⚕️,1F468 1F3FD 200D 2695 FE0F                  ,man health worker: medium skin tone
+👨🏽‍⚖️,1F468 1F3FD 200D 2696 FE0F                  ,man judge: medium skin tone
+👨🏽‍✈️,1F468 1F3FD 200D 2708 FE0F                  ,man pilot: medium skin tone
+👨🏽‍🌾,1F468 1F3FD 200D 1F33E                      ,man farmer: medium skin tone
+👨🏽‍🍳,1F468 1F3FD 200D 1F373                      ,man cook: medium skin tone
+👨🏽‍🍼,1F468 1F3FD 200D 1F37C                      ,man feeding baby: medium skin tone
+👨🏽‍🎓,1F468 1F3FD 200D 1F393                      ,man student: medium skin tone
+👨🏽‍🎤,1F468 1F3FD 200D 1F3A4                      ,man singer: medium skin tone
+👨🏽‍🎨,1F468 1F3FD 200D 1F3A8                      ,man artist: medium skin tone
+👨🏽‍🏫,1F468 1F3FD 200D 1F3EB                      ,man teacher: medium skin tone
+👨🏽‍🏭,1F468 1F3FD 200D 1F3ED                      ,man factory worker: medium skin tone
+👨🏽‍💻,1F468 1F3FD 200D 1F4BB                      ,man technologist: medium skin tone
+👨🏽‍💼,1F468 1F3FD 200D 1F4BC                      ,man office worker: medium skin tone
+👨🏽‍🔧,1F468 1F3FD 200D 1F527                      ,man mechanic: medium skin tone
+👨🏽‍🔬,1F468 1F3FD 200D 1F52C                      ,man scientist: medium skin tone
+👨🏽‍🚀,1F468 1F3FD 200D 1F680                      ,man astronaut: medium skin tone
+👨🏽‍🚒,1F468 1F3FD 200D 1F692                      ,man firefighter: medium skin tone
+👨🏽‍🦯,1F468 1F3FD 200D 1F9AF                      ,man with white cane: medium skin tone
+👨🏽‍🦯‍➡️,1F468 1F3FD 200D 1F9AF 200D 27A1 FE0F       ,man with white cane facing right: medium skin tone
+👨🏽‍🦼,1F468 1F3FD 200D 1F9BC                      ,man in motorized wheelchair: medium skin tone
+👨🏽‍🦼‍➡️,1F468 1F3FD 200D 1F9BC 200D 27A1 FE0F       ,man in motorized wheelchair facing right: medium skin tone
+👨🏽‍🦽,1F468 1F3FD 200D 1F9BD                      ,man in manual wheelchair: medium skin tone
+👨🏽‍🦽‍➡️,1F468 1F3FD 200D 1F9BD 200D 27A1 FE0F       ,man in manual wheelchair facing right: medium skin tone
+👨🏾‍⚕️,1F468 1F3FE 200D 2695 FE0F                  ,man health worker: medium-dark skin tone
+👨🏾‍⚖️,1F468 1F3FE 200D 2696 FE0F                  ,man judge: medium-dark skin tone
+👨🏾‍✈️,1F468 1F3FE 200D 2708 FE0F                  ,man pilot: medium-dark skin tone
+👨🏾‍🌾,1F468 1F3FE 200D 1F33E                      ,man farmer: medium-dark skin tone
+👨🏾‍🍳,1F468 1F3FE 200D 1F373                      ,man cook: medium-dark skin tone
+👨🏾‍🍼,1F468 1F3FE 200D 1F37C                      ,man feeding baby: medium-dark skin tone
+👨🏾‍🎓,1F468 1F3FE 200D 1F393                      ,man student: medium-dark skin tone
+👨🏾‍🎤,1F468 1F3FE 200D 1F3A4                      ,man singer: medium-dark skin tone
+👨🏾‍🎨,1F468 1F3FE 200D 1F3A8                      ,man artist: medium-dark skin tone
+👨🏾‍🏫,1F468 1F3FE 200D 1F3EB                      ,man teacher: medium-dark skin tone
+👨🏾‍🏭,1F468 1F3FE 200D 1F3ED                      ,man factory worker: medium-dark skin tone
+👨🏾‍💻,1F468 1F3FE 200D 1F4BB                      ,man technologist: medium-dark skin tone
+👨🏾‍💼,1F468 1F3FE 200D 1F4BC                      ,man office worker: medium-dark skin tone
+👨🏾‍🔧,1F468 1F3FE 200D 1F527                      ,man mechanic: medium-dark skin tone
+👨🏾‍🔬,1F468 1F3FE 200D 1F52C                      ,man scientist: medium-dark skin tone
+👨🏾‍🚀,1F468 1F3FE 200D 1F680                      ,man astronaut: medium-dark skin tone
+👨🏾‍🚒,1F468 1F3FE 200D 1F692                      ,man firefighter: medium-dark skin tone
+👨🏾‍🦯,1F468 1F3FE 200D 1F9AF                      ,man with white cane: medium-dark skin tone
+👨🏾‍🦯‍➡️,1F468 1F3FE 200D 1F9AF 200D 27A1 FE0F       ,man with white cane facing right: medium-dark skin tone
+👨🏾‍🦼,1F468 1F3FE 200D 1F9BC                      ,man in motorized wheelchair: medium-dark skin tone
+👨🏾‍🦼‍➡️,1F468 1F3FE 200D 1F9BC 200D 27A1 FE0F       ,man in motorized wheelchair facing right: medium-dark skin tone
+👨🏾‍🦽,1F468 1F3FE 200D 1F9BD                      ,man in manual wheelchair: medium-dark skin tone
+👨🏾‍🦽‍➡️,1F468 1F3FE 200D 1F9BD 200D 27A1 FE0F       ,man in manual wheelchair facing right: medium-dark skin tone
+👨🏿‍⚕️,1F468 1F3FF 200D 2695 FE0F                  ,man health worker: dark skin tone
+👨🏿‍⚖️,1F468 1F3FF 200D 2696 FE0F                  ,man judge: dark skin tone
+👨🏿‍✈️,1F468 1F3FF 200D 2708 FE0F                  ,man pilot: dark skin tone
+👨🏿‍🌾,1F468 1F3FF 200D 1F33E                      ,man farmer: dark skin tone
+👨🏿‍🍳,1F468 1F3FF 200D 1F373                      ,man cook: dark skin tone
+👨🏿‍🍼,1F468 1F3FF 200D 1F37C                      ,man feeding baby: dark skin tone
+👨🏿‍🎓,1F468 1F3FF 200D 1F393                      ,man student: dark skin tone
+👨🏿‍🎤,1F468 1F3FF 200D 1F3A4                      ,man singer: dark skin tone
+👨🏿‍🎨,1F468 1F3FF 200D 1F3A8                      ,man artist: dark skin tone
+👨🏿‍🏫,1F468 1F3FF 200D 1F3EB                      ,man teacher: dark skin tone
+👨🏿‍🏭,1F468 1F3FF 200D 1F3ED                      ,man factory worker: dark skin tone
+👨🏿‍💻,1F468 1F3FF 200D 1F4BB                      ,man technologist: dark skin tone
+👨🏿‍💼,1F468 1F3FF 200D 1F4BC                      ,man office worker: dark skin tone
+👨🏿‍🔧,1F468 1F3FF 200D 1F527                      ,man mechanic: dark skin tone
+👨🏿‍🔬,1F468 1F3FF 200D 1F52C                      ,man scientist: dark skin tone
+👨🏿‍🚀,1F468 1F3FF 200D 1F680                      ,man astronaut: dark skin tone
+👨🏿‍🚒,1F468 1F3FF 200D 1F692                      ,man firefighter: dark skin tone
+👨🏿‍🦯,1F468 1F3FF 200D 1F9AF                      ,man with white cane: dark skin tone
+👨🏿‍🦯‍➡️,1F468 1F3FF 200D 1F9AF 200D 27A1 FE0F       ,man with white cane facing right: dark skin tone
+👨🏿‍🦼,1F468 1F3FF 200D 1F9BC                      ,man in motorized wheelchair: dark skin tone
+👨🏿‍🦼‍➡️,1F468 1F3FF 200D 1F9BC 200D 27A1 FE0F       ,man in motorized wheelchair facing right: dark skin tone
+👨🏿‍🦽,1F468 1F3FF 200D 1F9BD                      ,man in manual wheelchair: dark skin tone
+👨🏿‍🦽‍➡️,1F468 1F3FF 200D 1F9BD 200D 27A1 FE0F       ,man in manual wheelchair facing right: dark skin tone
+👩‍⚕️,1F469 200D 2695 FE0F                        ,woman health worker
+👩‍⚖️,1F469 200D 2696 FE0F                        ,woman judge
+👩‍✈️,1F469 200D 2708 FE0F                        ,woman pilot
+👩‍🌾,1F469 200D 1F33E                            ,woman farmer
+👩‍🍳,1F469 200D 1F373                            ,woman cook
+👩‍🍼,1F469 200D 1F37C                            ,woman feeding baby
+👩‍🎓,1F469 200D 1F393                            ,woman student
+👩‍🎤,1F469 200D 1F3A4                            ,woman singer
+👩‍🎨,1F469 200D 1F3A8                            ,woman artist
+👩‍🏫,1F469 200D 1F3EB                            ,woman teacher
+👩‍🏭,1F469 200D 1F3ED                            ,woman factory worker
+👩‍💻,1F469 200D 1F4BB                            ,woman technologist
+👩‍💼,1F469 200D 1F4BC                            ,woman office worker
+👩‍🔧,1F469 200D 1F527                            ,woman mechanic
+👩‍🔬,1F469 200D 1F52C                            ,woman scientist
+👩‍🚀,1F469 200D 1F680                            ,woman astronaut
+👩‍🚒,1F469 200D 1F692                            ,woman firefighter
+👩‍🦯,1F469 200D 1F9AF                            ,woman with white cane
+👩‍🦯‍➡️,1F469 200D 1F9AF 200D 27A1 FE0F             ,woman with white cane facing right
+👩‍🦼,1F469 200D 1F9BC                            ,woman in motorized wheelchair
+👩‍🦼‍➡️,1F469 200D 1F9BC 200D 27A1 FE0F             ,woman in motorized wheelchair facing right
+👩‍🦽,1F469 200D 1F9BD                            ,woman in manual wheelchair
+👩‍🦽‍➡️,1F469 200D 1F9BD 200D 27A1 FE0F             ,woman in manual wheelchair facing right
+👩🏻‍⚕️,1F469 1F3FB 200D 2695 FE0F                  ,woman health worker: light skin tone
+👩🏻‍⚖️,1F469 1F3FB 200D 2696 FE0F                  ,woman judge: light skin tone
+👩🏻‍✈️,1F469 1F3FB 200D 2708 FE0F                  ,woman pilot: light skin tone
+👩🏻‍🌾,1F469 1F3FB 200D 1F33E                      ,woman farmer: light skin tone
+👩🏻‍🍳,1F469 1F3FB 200D 1F373                      ,woman cook: light skin tone
+👩🏻‍🍼,1F469 1F3FB 200D 1F37C                      ,woman feeding baby: light skin tone
+👩🏻‍🎓,1F469 1F3FB 200D 1F393                      ,woman student: light skin tone
+👩🏻‍🎤,1F469 1F3FB 200D 1F3A4                      ,woman singer: light skin tone
+👩🏻‍🎨,1F469 1F3FB 200D 1F3A8                      ,woman artist: light skin tone
+👩🏻‍🏫,1F469 1F3FB 200D 1F3EB                      ,woman teacher: light skin tone
+👩🏻‍🏭,1F469 1F3FB 200D 1F3ED                      ,woman factory worker: light skin tone
+👩🏻‍💻,1F469 1F3FB 200D 1F4BB                      ,woman technologist: light skin tone
+👩🏻‍💼,1F469 1F3FB 200D 1F4BC                      ,woman office worker: light skin tone
+👩🏻‍🔧,1F469 1F3FB 200D 1F527                      ,woman mechanic: light skin tone
+👩🏻‍🔬,1F469 1F3FB 200D 1F52C                      ,woman scientist: light skin tone
+👩🏻‍🚀,1F469 1F3FB 200D 1F680                      ,woman astronaut: light skin tone
+👩🏻‍🚒,1F469 1F3FB 200D 1F692                      ,woman firefighter: light skin tone
+👩🏻‍🦯,1F469 1F3FB 200D 1F9AF                      ,woman with white cane: light skin tone
+👩🏻‍🦯‍➡️,1F469 1F3FB 200D 1F9AF 200D 27A1 FE0F       ,woman with white cane facing right: light skin tone
+👩🏻‍🦼,1F469 1F3FB 200D 1F9BC                      ,woman in motorized wheelchair: light skin tone
+👩🏻‍🦼‍➡️,1F469 1F3FB 200D 1F9BC 200D 27A1 FE0F       ,woman in motorized wheelchair facing right: light skin tone
+👩🏻‍🦽,1F469 1F3FB 200D 1F9BD                      ,woman in manual wheelchair: light skin tone
+👩🏻‍🦽‍➡️,1F469 1F3FB 200D 1F9BD 200D 27A1 FE0F       ,woman in manual wheelchair facing right: light skin tone
+👩🏼‍⚕️,1F469 1F3FC 200D 2695 FE0F                  ,woman health worker: medium-light skin tone
+👩🏼‍⚖️,1F469 1F3FC 200D 2696 FE0F                  ,woman judge: medium-light skin tone
+👩🏼‍✈️,1F469 1F3FC 200D 2708 FE0F                  ,woman pilot: medium-light skin tone
+👩🏼‍🌾,1F469 1F3FC 200D 1F33E                      ,woman farmer: medium-light skin tone
+👩🏼‍🍳,1F469 1F3FC 200D 1F373                      ,woman cook: medium-light skin tone
+👩🏼‍🍼,1F469 1F3FC 200D 1F37C                      ,woman feeding baby: medium-light skin tone
+👩🏼‍🎓,1F469 1F3FC 200D 1F393                      ,woman student: medium-light skin tone
+👩🏼‍🎤,1F469 1F3FC 200D 1F3A4                      ,woman singer: medium-light skin tone
+👩🏼‍🎨,1F469 1F3FC 200D 1F3A8                      ,woman artist: medium-light skin tone
+👩🏼‍🏫,1F469 1F3FC 200D 1F3EB                      ,woman teacher: medium-light skin tone
+👩🏼‍🏭,1F469 1F3FC 200D 1F3ED                      ,woman factory worker: medium-light skin tone
+👩🏼‍💻,1F469 1F3FC 200D 1F4BB                      ,woman technologist: medium-light skin tone
+👩🏼‍💼,1F469 1F3FC 200D 1F4BC                      ,woman office worker: medium-light skin tone
+👩🏼‍🔧,1F469 1F3FC 200D 1F527                      ,woman mechanic: medium-light skin tone
+👩🏼‍🔬,1F469 1F3FC 200D 1F52C                      ,woman scientist: medium-light skin tone
+👩🏼‍🚀,1F469 1F3FC 200D 1F680                      ,woman astronaut: medium-light skin tone
+👩🏼‍🚒,1F469 1F3FC 200D 1F692                      ,woman firefighter: medium-light skin tone
+👩🏼‍🦯,1F469 1F3FC 200D 1F9AF                      ,woman with white cane: medium-light skin tone
+👩🏼‍🦯‍➡️,1F469 1F3FC 200D 1F9AF 200D 27A1 FE0F       ,woman with white cane facing right: medium-light skin tone
+👩🏼‍🦼,1F469 1F3FC 200D 1F9BC                      ,woman in motorized wheelchair: medium-light skin tone
+👩🏼‍🦼‍➡️,1F469 1F3FC 200D 1F9BC 200D 27A1 FE0F       ,woman in motorized wheelchair facing right: medium-light skin tone
+👩🏼‍🦽,1F469 1F3FC 200D 1F9BD                      ,woman in manual wheelchair: medium-light skin tone
+👩🏼‍🦽‍➡️,1F469 1F3FC 200D 1F9BD 200D 27A1 FE0F       ,woman in manual wheelchair facing right: medium-light skin tone
+👩🏽‍⚕️,1F469 1F3FD 200D 2695 FE0F                  ,woman health worker: medium skin tone
+👩🏽‍⚖️,1F469 1F3FD 200D 2696 FE0F                  ,woman judge: medium skin tone
+👩🏽‍✈️,1F469 1F3FD 200D 2708 FE0F                  ,woman pilot: medium skin tone
+👩🏽‍🌾,1F469 1F3FD 200D 1F33E                      ,woman farmer: medium skin tone
+👩🏽‍🍳,1F469 1F3FD 200D 1F373                      ,woman cook: medium skin tone
+👩🏽‍🍼,1F469 1F3FD 200D 1F37C                      ,woman feeding baby: medium skin tone
+👩🏽‍🎓,1F469 1F3FD 200D 1F393                      ,woman student: medium skin tone
+👩🏽‍🎤,1F469 1F3FD 200D 1F3A4                      ,woman singer: medium skin tone
+👩🏽‍🎨,1F469 1F3FD 200D 1F3A8                      ,woman artist: medium skin tone
+👩🏽‍🏫,1F469 1F3FD 200D 1F3EB                      ,woman teacher: medium skin tone
+👩🏽‍🏭,1F469 1F3FD 200D 1F3ED                      ,woman factory worker: medium skin tone
+👩🏽‍💻,1F469 1F3FD 200D 1F4BB                      ,woman technologist: medium skin tone
+👩🏽‍💼,1F469 1F3FD 200D 1F4BC                      ,woman office worker: medium skin tone
+👩🏽‍🔧,1F469 1F3FD 200D 1F527                      ,woman mechanic: medium skin tone
+👩🏽‍🔬,1F469 1F3FD 200D 1F52C                      ,woman scientist: medium skin tone
+👩🏽‍🚀,1F469 1F3FD 200D 1F680                      ,woman astronaut: medium skin tone
+👩🏽‍🚒,1F469 1F3FD 200D 1F692                      ,woman firefighter: medium skin tone
+👩🏽‍🦯,1F469 1F3FD 200D 1F9AF                      ,woman with white cane: medium skin tone
+👩🏽‍🦯‍➡️,1F469 1F3FD 200D 1F9AF 200D 27A1 FE0F       ,woman with white cane facing right: medium skin tone
+👩🏽‍🦼,1F469 1F3FD 200D 1F9BC                      ,woman in motorized wheelchair: medium skin tone
+👩🏽‍🦼‍➡️,1F469 1F3FD 200D 1F9BC 200D 27A1 FE0F       ,woman in motorized wheelchair facing right: medium skin tone
+👩🏽‍🦽,1F469 1F3FD 200D 1F9BD                      ,woman in manual wheelchair: medium skin tone
+👩🏽‍🦽‍➡️,1F469 1F3FD 200D 1F9BD 200D 27A1 FE0F       ,woman in manual wheelchair facing right: medium skin tone
+👩🏾‍⚕️,1F469 1F3FE 200D 2695 FE0F                  ,woman health worker: medium-dark skin tone
+👩🏾‍⚖️,1F469 1F3FE 200D 2696 FE0F                  ,woman judge: medium-dark skin tone
+👩🏾‍✈️,1F469 1F3FE 200D 2708 FE0F                  ,woman pilot: medium-dark skin tone
+👩🏾‍🌾,1F469 1F3FE 200D 1F33E                      ,woman farmer: medium-dark skin tone
+👩🏾‍🍳,1F469 1F3FE 200D 1F373                      ,woman cook: medium-dark skin tone
+👩🏾‍🍼,1F469 1F3FE 200D 1F37C                      ,woman feeding baby: medium-dark skin tone
+👩🏾‍🎓,1F469 1F3FE 200D 1F393                      ,woman student: medium-dark skin tone
+👩🏾‍🎤,1F469 1F3FE 200D 1F3A4                      ,woman singer: medium-dark skin tone
+👩🏾‍🎨,1F469 1F3FE 200D 1F3A8                      ,woman artist: medium-dark skin tone
+👩🏾‍🏫,1F469 1F3FE 200D 1F3EB                      ,woman teacher: medium-dark skin tone
+👩🏾‍🏭,1F469 1F3FE 200D 1F3ED                      ,woman factory worker: medium-dark skin tone
+👩🏾‍💻,1F469 1F3FE 200D 1F4BB                      ,woman technologist: medium-dark skin tone
+👩🏾‍💼,1F469 1F3FE 200D 1F4BC                      ,woman office worker: medium-dark skin tone
+👩🏾‍🔧,1F469 1F3FE 200D 1F527                      ,woman mechanic: medium-dark skin tone
+👩🏾‍🔬,1F469 1F3FE 200D 1F52C                      ,woman scientist: medium-dark skin tone
+👩🏾‍🚀,1F469 1F3FE 200D 1F680                      ,woman astronaut: medium-dark skin tone
+👩🏾‍🚒,1F469 1F3FE 200D 1F692                      ,woman firefighter: medium-dark skin tone
+👩🏾‍🦯,1F469 1F3FE 200D 1F9AF                      ,woman with white cane: medium-dark skin tone
+👩🏾‍🦯‍➡️,1F469 1F3FE 200D 1F9AF 200D 27A1 FE0F       ,woman with white cane facing right: medium-dark skin tone
+👩🏾‍🦼,1F469 1F3FE 200D 1F9BC                      ,woman in motorized wheelchair: medium-dark skin tone
+👩🏾‍🦼‍➡️,1F469 1F3FE 200D 1F9BC 200D 27A1 FE0F       ,woman in motorized wheelchair facing right: medium-dark skin tone
+👩🏾‍🦽,1F469 1F3FE 200D 1F9BD                      ,woman in manual wheelchair: medium-dark skin tone
+👩🏾‍🦽‍➡️,1F469 1F3FE 200D 1F9BD 200D 27A1 FE0F       ,woman in manual wheelchair facing right: medium-dark skin tone
+👩🏿‍⚕️,1F469 1F3FF 200D 2695 FE0F                  ,woman health worker: dark skin tone
+👩🏿‍⚖️,1F469 1F3FF 200D 2696 FE0F                  ,woman judge: dark skin tone
+👩🏿‍✈️,1F469 1F3FF 200D 2708 FE0F                  ,woman pilot: dark skin tone
+👩🏿‍🌾,1F469 1F3FF 200D 1F33E                      ,woman farmer: dark skin tone
+👩🏿‍🍳,1F469 1F3FF 200D 1F373                      ,woman cook: dark skin tone
+👩🏿‍🍼,1F469 1F3FF 200D 1F37C                      ,woman feeding baby: dark skin tone
+👩🏿‍🎓,1F469 1F3FF 200D 1F393                      ,woman student: dark skin tone
+👩🏿‍🎤,1F469 1F3FF 200D 1F3A4                      ,woman singer: dark skin tone
+👩🏿‍🎨,1F469 1F3FF 200D 1F3A8                      ,woman artist: dark skin tone
+👩🏿‍🏫,1F469 1F3FF 200D 1F3EB                      ,woman teacher: dark skin tone
+👩🏿‍🏭,1F469 1F3FF 200D 1F3ED                      ,woman factory worker: dark skin tone
+👩🏿‍💻,1F469 1F3FF 200D 1F4BB                      ,woman technologist: dark skin tone
+👩🏿‍💼,1F469 1F3FF 200D 1F4BC                      ,woman office worker: dark skin tone
+👩🏿‍🔧,1F469 1F3FF 200D 1F527                      ,woman mechanic: dark skin tone
+👩🏿‍🔬,1F469 1F3FF 200D 1F52C                      ,woman scientist: dark skin tone
+👩🏿‍🚀,1F469 1F3FF 200D 1F680                      ,woman astronaut: dark skin tone
+👩🏿‍🚒,1F469 1F3FF 200D 1F692                      ,woman firefighter: dark skin tone
+👩🏿‍🦯,1F469 1F3FF 200D 1F9AF                      ,woman with white cane: dark skin tone
+👩🏿‍🦯‍➡️,1F469 1F3FF 200D 1F9AF 200D 27A1 FE0F       ,woman with white cane facing right: dark skin tone
+👩🏿‍🦼,1F469 1F3FF 200D 1F9BC                      ,woman in motorized wheelchair: dark skin tone
+👩🏿‍🦼‍➡️,1F469 1F3FF 200D 1F9BC 200D 27A1 FE0F       ,woman in motorized wheelchair facing right: dark skin tone
+👩🏿‍🦽,1F469 1F3FF 200D 1F9BD                      ,woman in manual wheelchair: dark skin tone
+👩🏿‍🦽‍➡️,1F469 1F3FF 200D 1F9BD 200D 27A1 FE0F       ,woman in manual wheelchair facing right: dark skin tone
+🚶‍➡️,1F6B6 200D 27A1 FE0F                        ,person walking facing right
+🚶🏻‍➡️,1F6B6 1F3FB 200D 27A1 FE0F                  ,person walking facing right: light skin tone
+🚶🏼‍➡️,1F6B6 1F3FC 200D 27A1 FE0F                  ,person walking facing right: medium-light skin tone
+🚶🏽‍➡️,1F6B6 1F3FD 200D 27A1 FE0F                  ,person walking facing right: medium skin tone
+🚶🏾‍➡️,1F6B6 1F3FE 200D 27A1 FE0F                  ,person walking facing right: medium-dark skin tone
+🚶🏿‍➡️,1F6B6 1F3FF 200D 27A1 FE0F                  ,person walking facing right: dark skin tone
+🧎‍➡️,1F9CE 200D 27A1 FE0F                        ,person kneeling facing right
+🧎🏻‍➡️,1F9CE 1F3FB 200D 27A1 FE0F                  ,person kneeling facing right: light skin tone
+🧎🏼‍➡️,1F9CE 1F3FC 200D 27A1 FE0F                  ,person kneeling facing right: medium-light skin tone
+🧎🏽‍➡️,1F9CE 1F3FD 200D 27A1 FE0F                  ,person kneeling facing right: medium skin tone
+🧎🏾‍➡️,1F9CE 1F3FE 200D 27A1 FE0F                  ,person kneeling facing right: medium-dark skin tone
+🧎🏿‍➡️,1F9CE 1F3FF 200D 27A1 FE0F                  ,person kneeling facing right: dark skin tone
+🧑‍⚕️,1F9D1 200D 2695 FE0F                        ,health worker
+🧑‍⚖️,1F9D1 200D 2696 FE0F                        ,judge
+🧑‍✈️,1F9D1 200D 2708 FE0F                        ,pilot
+🧑‍🌾,1F9D1 200D 1F33E                            ,farmer
+🧑‍🍳,1F9D1 200D 1F373                            ,cook
+🧑‍🍼,1F9D1 200D 1F37C                            ,person feeding baby
+🧑‍🎄,1F9D1 200D 1F384                            ,Mx Claus
+🧑‍🎓,1F9D1 200D 1F393                            ,student
+🧑‍🎤,1F9D1 200D 1F3A4                            ,singer
+🧑‍🎨,1F9D1 200D 1F3A8                            ,artist
+🧑‍🏫,1F9D1 200D 1F3EB                            ,teacher
+🧑‍🏭,1F9D1 200D 1F3ED                            ,factory worker
+🧑‍💻,1F9D1 200D 1F4BB                            ,technologist
+🧑‍💼,1F9D1 200D 1F4BC                            ,office worker
+🧑‍🔧,1F9D1 200D 1F527                            ,mechanic
+🧑‍🔬,1F9D1 200D 1F52C                            ,scientist
+🧑‍🚀,1F9D1 200D 1F680                            ,astronaut
+🧑‍🚒,1F9D1 200D 1F692                            ,firefighter
+🧑‍🦯,1F9D1 200D 1F9AF                            ,person with white cane
+🧑‍🦯‍➡️,1F9D1 200D 1F9AF 200D 27A1 FE0F             ,person with white cane facing right
+🧑‍🦼,1F9D1 200D 1F9BC                            ,person in motorized wheelchair
+🧑‍🦼‍➡️,1F9D1 200D 1F9BC 200D 27A1 FE0F             ,person in motorized wheelchair facing right
+🧑‍🦽,1F9D1 200D 1F9BD                            ,person in manual wheelchair
+🧑‍🦽‍➡️,1F9D1 200D 1F9BD 200D 27A1 FE0F             ,person in manual wheelchair facing right
+🧑🏻‍⚕️,1F9D1 1F3FB 200D 2695 FE0F                  ,health worker: light skin tone
+🧑🏻‍⚖️,1F9D1 1F3FB 200D 2696 FE0F                  ,judge: light skin tone
+🧑🏻‍✈️,1F9D1 1F3FB 200D 2708 FE0F                  ,pilot: light skin tone
+🧑🏻‍🌾,1F9D1 1F3FB 200D 1F33E                      ,farmer: light skin tone
+🧑🏻‍🍳,1F9D1 1F3FB 200D 1F373                      ,cook: light skin tone
+🧑🏻‍🍼,1F9D1 1F3FB 200D 1F37C                      ,person feeding baby: light skin tone
+🧑🏻‍🎄,1F9D1 1F3FB 200D 1F384                      ,Mx Claus: light skin tone
+🧑🏻‍🎓,1F9D1 1F3FB 200D 1F393                      ,student: light skin tone
+🧑🏻‍🎤,1F9D1 1F3FB 200D 1F3A4                      ,singer: light skin tone
+🧑🏻‍🎨,1F9D1 1F3FB 200D 1F3A8                      ,artist: light skin tone
+🧑🏻‍🏫,1F9D1 1F3FB 200D 1F3EB                      ,teacher: light skin tone
+🧑🏻‍🏭,1F9D1 1F3FB 200D 1F3ED                      ,factory worker: light skin tone
+🧑🏻‍💻,1F9D1 1F3FB 200D 1F4BB                      ,technologist: light skin tone
+🧑🏻‍💼,1F9D1 1F3FB 200D 1F4BC                      ,office worker: light skin tone
+🧑🏻‍🔧,1F9D1 1F3FB 200D 1F527                      ,mechanic: light skin tone
+🧑🏻‍🔬,1F9D1 1F3FB 200D 1F52C                      ,scientist: light skin tone
+🧑🏻‍🚀,1F9D1 1F3FB 200D 1F680                      ,astronaut: light skin tone
+🧑🏻‍🚒,1F9D1 1F3FB 200D 1F692                      ,firefighter: light skin tone
+🧑🏻‍🦯,1F9D1 1F3FB 200D 1F9AF                      ,person with white cane: light skin tone
+🧑🏻‍🦯‍➡️,1F9D1 1F3FB 200D 1F9AF 200D 27A1 FE0F       ,person with white cane facing right: light skin tone
+🧑🏻‍🦼,1F9D1 1F3FB 200D 1F9BC                      ,person in motorized wheelchair: light skin tone
+🧑🏻‍🦼‍➡️,1F9D1 1F3FB 200D 1F9BC 200D 27A1 FE0F       ,person in motorized wheelchair facing right: light skin tone
+🧑🏻‍🦽,1F9D1 1F3FB 200D 1F9BD                      ,person in manual wheelchair: light skin tone
+🧑🏻‍🦽‍➡️,1F9D1 1F3FB 200D 1F9BD 200D 27A1 FE0F       ,person in manual wheelchair facing right: light skin tone
+🧑🏼‍⚕️,1F9D1 1F3FC 200D 2695 FE0F                  ,health worker: medium-light skin tone
+🧑🏼‍⚖️,1F9D1 1F3FC 200D 2696 FE0F                  ,judge: medium-light skin tone
+🧑🏼‍✈️,1F9D1 1F3FC 200D 2708 FE0F                  ,pilot: medium-light skin tone
+🧑🏼‍🌾,1F9D1 1F3FC 200D 1F33E                      ,farmer: medium-light skin tone
+🧑🏼‍🍳,1F9D1 1F3FC 200D 1F373                      ,cook: medium-light skin tone
+🧑🏼‍🍼,1F9D1 1F3FC 200D 1F37C                      ,person feeding baby: medium-light skin tone
+🧑🏼‍🎄,1F9D1 1F3FC 200D 1F384                      ,Mx Claus: medium-light skin tone
+🧑🏼‍🎓,1F9D1 1F3FC 200D 1F393                      ,student: medium-light skin tone
+🧑🏼‍🎤,1F9D1 1F3FC 200D 1F3A4                      ,singer: medium-light skin tone
+🧑🏼‍🎨,1F9D1 1F3FC 200D 1F3A8                      ,artist: medium-light skin tone
+🧑🏼‍🏫,1F9D1 1F3FC 200D 1F3EB                      ,teacher: medium-light skin tone
+🧑🏼‍🏭,1F9D1 1F3FC 200D 1F3ED                      ,factory worker: medium-light skin tone
+🧑🏼‍💻,1F9D1 1F3FC 200D 1F4BB                      ,technologist: medium-light skin tone
+🧑🏼‍💼,1F9D1 1F3FC 200D 1F4BC                      ,office worker: medium-light skin tone
+🧑🏼‍🔧,1F9D1 1F3FC 200D 1F527                      ,mechanic: medium-light skin tone
+🧑🏼‍🔬,1F9D1 1F3FC 200D 1F52C                      ,scientist: medium-light skin tone
+🧑🏼‍🚀,1F9D1 1F3FC 200D 1F680                      ,astronaut: medium-light skin tone
+🧑🏼‍🚒,1F9D1 1F3FC 200D 1F692                      ,firefighter: medium-light skin tone
+🧑🏼‍🦯,1F9D1 1F3FC 200D 1F9AF                      ,person with white cane: medium-light skin tone
+🧑🏼‍🦯‍➡️,1F9D1 1F3FC 200D 1F9AF 200D 27A1 FE0F       ,person with white cane facing right: medium-light skin tone
+🧑🏼‍🦼,1F9D1 1F3FC 200D 1F9BC                      ,person in motorized wheelchair: medium-light skin tone
+🧑🏼‍🦼‍➡️,1F9D1 1F3FC 200D 1F9BC 200D 27A1 FE0F       ,person in motorized wheelchair facing right: medium-light skin tone
+🧑🏼‍🦽,1F9D1 1F3FC 200D 1F9BD                      ,person in manual wheelchair: medium-light skin tone
+🧑🏼‍🦽‍➡️,1F9D1 1F3FC 200D 1F9BD 200D 27A1 FE0F       ,person in manual wheelchair facing right: medium-light skin tone
+🧑🏽‍⚕️,1F9D1 1F3FD 200D 2695 FE0F                  ,health worker: medium skin tone
+🧑🏽‍⚖️,1F9D1 1F3FD 200D 2696 FE0F                  ,judge: medium skin tone
+🧑🏽‍✈️,1F9D1 1F3FD 200D 2708 FE0F                  ,pilot: medium skin tone
+🧑🏽‍🌾,1F9D1 1F3FD 200D 1F33E                      ,farmer: medium skin tone
+🧑🏽‍🍳,1F9D1 1F3FD 200D 1F373                      ,cook: medium skin tone
+🧑🏽‍🍼,1F9D1 1F3FD 200D 1F37C                      ,person feeding baby: medium skin tone
+🧑🏽‍🎄,1F9D1 1F3FD 200D 1F384                      ,Mx Claus: medium skin tone
+🧑🏽‍🎓,1F9D1 1F3FD 200D 1F393                      ,student: medium skin tone
+🧑🏽‍🎤,1F9D1 1F3FD 200D 1F3A4                      ,singer: medium skin tone
+🧑🏽‍🎨,1F9D1 1F3FD 200D 1F3A8                      ,artist: medium skin tone
+🧑🏽‍🏫,1F9D1 1F3FD 200D 1F3EB                      ,teacher: medium skin tone
+🧑🏽‍🏭,1F9D1 1F3FD 200D 1F3ED                      ,factory worker: medium skin tone
+🧑🏽‍💻,1F9D1 1F3FD 200D 1F4BB                      ,technologist: medium skin tone
+🧑🏽‍💼,1F9D1 1F3FD 200D 1F4BC                      ,office worker: medium skin tone
+🧑🏽‍🔧,1F9D1 1F3FD 200D 1F527                      ,mechanic: medium skin tone
+🧑🏽‍🔬,1F9D1 1F3FD 200D 1F52C                      ,scientist: medium skin tone
+🧑🏽‍🚀,1F9D1 1F3FD 200D 1F680                      ,astronaut: medium skin tone
+🧑🏽‍🚒,1F9D1 1F3FD 200D 1F692                      ,firefighter: medium skin tone
+🧑🏽‍🦯,1F9D1 1F3FD 200D 1F9AF                      ,person with white cane: medium skin tone
+🧑🏽‍🦯‍➡️,1F9D1 1F3FD 200D 1F9AF 200D 27A1 FE0F       ,person with white cane facing right: medium skin tone
+🧑🏽‍🦼,1F9D1 1F3FD 200D 1F9BC                      ,person in motorized wheelchair: medium skin tone
+🧑🏽‍🦼‍➡️,1F9D1 1F3FD 200D 1F9BC 200D 27A1 FE0F       ,person in motorized wheelchair facing right: medium skin tone
+🧑🏽‍🦽,1F9D1 1F3FD 200D 1F9BD                      ,person in manual wheelchair: medium skin tone
+🧑🏽‍🦽‍➡️,1F9D1 1F3FD 200D 1F9BD 200D 27A1 FE0F       ,person in manual wheelchair facing right: medium skin tone
+🧑🏾‍⚕️,1F9D1 1F3FE 200D 2695 FE0F                  ,health worker: medium-dark skin tone
+🧑🏾‍⚖️,1F9D1 1F3FE 200D 2696 FE0F                  ,judge: medium-dark skin tone
+🧑🏾‍✈️,1F9D1 1F3FE 200D 2708 FE0F                  ,pilot: medium-dark skin tone
+🧑🏾‍🌾,1F9D1 1F3FE 200D 1F33E                      ,farmer: medium-dark skin tone
+🧑🏾‍🍳,1F9D1 1F3FE 200D 1F373                      ,cook: medium-dark skin tone
+🧑🏾‍🍼,1F9D1 1F3FE 200D 1F37C                      ,person feeding baby: medium-dark skin tone
+🧑🏾‍🎄,1F9D1 1F3FE 200D 1F384                      ,Mx Claus: medium-dark skin tone
+🧑🏾‍🎓,1F9D1 1F3FE 200D 1F393                      ,student: medium-dark skin tone
+🧑🏾‍🎤,1F9D1 1F3FE 200D 1F3A4                      ,singer: medium-dark skin tone
+🧑🏾‍🎨,1F9D1 1F3FE 200D 1F3A8                      ,artist: medium-dark skin tone
+🧑🏾‍🏫,1F9D1 1F3FE 200D 1F3EB                      ,teacher: medium-dark skin tone
+🧑🏾‍🏭,1F9D1 1F3FE 200D 1F3ED                      ,factory worker: medium-dark skin tone
+🧑🏾‍💻,1F9D1 1F3FE 200D 1F4BB                      ,technologist: medium-dark skin tone
+🧑🏾‍💼,1F9D1 1F3FE 200D 1F4BC                      ,office worker: medium-dark skin tone
+🧑🏾‍🔧,1F9D1 1F3FE 200D 1F527                      ,mechanic: medium-dark skin tone
+🧑🏾‍🔬,1F9D1 1F3FE 200D 1F52C                      ,scientist: medium-dark skin tone
+🧑🏾‍🚀,1F9D1 1F3FE 200D 1F680                      ,astronaut: medium-dark skin tone
+🧑🏾‍🚒,1F9D1 1F3FE 200D 1F692                      ,firefighter: medium-dark skin tone
+🧑🏾‍🦯,1F9D1 1F3FE 200D 1F9AF                      ,person with white cane: medium-dark skin tone
+🧑🏾‍🦯‍➡️,1F9D1 1F3FE 200D 1F9AF 200D 27A1 FE0F       ,person with white cane facing right: medium-dark skin tone
+🧑🏾‍🦼,1F9D1 1F3FE 200D 1F9BC                      ,person in motorized wheelchair: medium-dark skin tone
+🧑🏾‍🦼‍➡️,1F9D1 1F3FE 200D 1F9BC 200D 27A1 FE0F       ,person in motorized wheelchair facing right: medium-dark skin tone
+🧑🏾‍🦽,1F9D1 1F3FE 200D 1F9BD                      ,person in manual wheelchair: medium-dark skin tone
+🧑🏾‍🦽‍➡️,1F9D1 1F3FE 200D 1F9BD 200D 27A1 FE0F       ,person in manual wheelchair facing right: medium-dark skin tone
+🧑🏿‍⚕️,1F9D1 1F3FF 200D 2695 FE0F                  ,health worker: dark skin tone
+🧑🏿‍⚖️,1F9D1 1F3FF 200D 2696 FE0F                  ,judge: dark skin tone
+🧑🏿‍✈️,1F9D1 1F3FF 200D 2708 FE0F                  ,pilot: dark skin tone
+🧑🏿‍🌾,1F9D1 1F3FF 200D 1F33E                      ,farmer: dark skin tone
+🧑🏿‍🍳,1F9D1 1F3FF 200D 1F373                      ,cook: dark skin tone
+🧑🏿‍🍼,1F9D1 1F3FF 200D 1F37C                      ,person feeding baby: dark skin tone
+🧑🏿‍🎄,1F9D1 1F3FF 200D 1F384                      ,Mx Claus: dark skin tone
+🧑🏿‍🎓,1F9D1 1F3FF 200D 1F393                      ,student: dark skin tone
+🧑🏿‍🎤,1F9D1 1F3FF 200D 1F3A4                      ,singer: dark skin tone
+🧑🏿‍🎨,1F9D1 1F3FF 200D 1F3A8                      ,artist: dark skin tone
+🧑🏿‍🏫,1F9D1 1F3FF 200D 1F3EB                      ,teacher: dark skin tone
+🧑🏿‍🏭,1F9D1 1F3FF 200D 1F3ED                      ,factory worker: dark skin tone
+🧑🏿‍💻,1F9D1 1F3FF 200D 1F4BB                      ,technologist: dark skin tone
+🧑🏿‍💼,1F9D1 1F3FF 200D 1F4BC                      ,office worker: dark skin tone
+🧑🏿‍🔧,1F9D1 1F3FF 200D 1F527                      ,mechanic: dark skin tone
+🧑🏿‍🔬,1F9D1 1F3FF 200D 1F52C                      ,scientist: dark skin tone
+🧑🏿‍🚀,1F9D1 1F3FF 200D 1F680                      ,astronaut: dark skin tone
+🧑🏿‍🚒,1F9D1 1F3FF 200D 1F692                      ,firefighter: dark skin tone
+🧑🏿‍🦯,1F9D1 1F3FF 200D 1F9AF                      ,person with white cane: dark skin tone
+🧑🏿‍🦯‍➡️,1F9D1 1F3FF 200D 1F9AF 200D 27A1 FE0F       ,person with white cane facing right: dark skin tone
+🧑🏿‍🦼,1F9D1 1F3FF 200D 1F9BC                      ,person in motorized wheelchair: dark skin tone
+🧑🏿‍🦼‍➡️,1F9D1 1F3FF 200D 1F9BC 200D 27A1 FE0F       ,person in motorized wheelchair facing right: dark skin tone
+🧑🏿‍🦽,1F9D1 1F3FF 200D 1F9BD                      ,person in manual wheelchair: dark skin tone
+🧑🏿‍🦽‍➡️,1F9D1 1F3FF 200D 1F9BD 200D 27A1 FE0F       ,person in manual wheelchair facing right: dark skin tone
+⛹🏻‍♀️,26F9 1F3FB 200D 2640 FE0F                   ,woman bouncing ball: light skin tone
+⛹🏻‍♂️,26F9 1F3FB 200D 2642 FE0F                   ,man bouncing ball: light skin tone
+⛹🏼‍♀️,26F9 1F3FC 200D 2640 FE0F                   ,woman bouncing ball: medium-light skin tone
+⛹🏼‍♂️,26F9 1F3FC 200D 2642 FE0F                   ,man bouncing ball: medium-light skin tone
+⛹🏽‍♀️,26F9 1F3FD 200D 2640 FE0F                   ,woman bouncing ball: medium skin tone
+⛹🏽‍♂️,26F9 1F3FD 200D 2642 FE0F                   ,man bouncing ball: medium skin tone
+⛹🏾‍♀️,26F9 1F3FE 200D 2640 FE0F                   ,woman bouncing ball: medium-dark skin tone
+⛹🏾‍♂️,26F9 1F3FE 200D 2642 FE0F                   ,man bouncing ball: medium-dark skin tone
+⛹🏿‍♀️,26F9 1F3FF 200D 2640 FE0F                   ,woman bouncing ball: dark skin tone
+⛹🏿‍♂️,26F9 1F3FF 200D 2642 FE0F                   ,man bouncing ball: dark skin tone
+⛹️‍♀️,26F9 FE0F 200D 2640 FE0F                    ,woman bouncing ball
+⛹️‍♂️,26F9 FE0F 200D 2642 FE0F                    ,man bouncing ball
+🏃‍♀️,1F3C3 200D 2640 FE0F                        ,woman running
+🏃‍♀️‍➡️,1F3C3 200D 2640 FE0F 200D 27A1 FE0F         ,woman running facing right
+🏃‍♂️,1F3C3 200D 2642 FE0F                        ,man running
+🏃‍♂️‍➡️,1F3C3 200D 2642 FE0F 200D 27A1 FE0F         ,man running facing right
+🏃🏻‍♀️,1F3C3 1F3FB 200D 2640 FE0F                  ,woman running: light skin tone
+🏃🏻‍♀️‍➡️,1F3C3 1F3FB 200D 2640 FE0F 200D 27A1 FE0F   ,woman running facing right: light skin tone
+🏃🏻‍♂️,1F3C3 1F3FB 200D 2642 FE0F                  ,man running: light skin tone
+🏃🏻‍♂️‍➡️,1F3C3 1F3FB 200D 2642 FE0F 200D 27A1 FE0F   ,man running facing right: light skin tone
+🏃🏼‍♀️,1F3C3 1F3FC 200D 2640 FE0F                  ,woman running: medium-light skin tone
+🏃🏼‍♀️‍➡️,1F3C3 1F3FC 200D 2640 FE0F 200D 27A1 FE0F   ,woman running facing right: medium-light skin tone
+🏃🏼‍♂️,1F3C3 1F3FC 200D 2642 FE0F                  ,man running: medium-light skin tone
+🏃🏼‍♂️‍➡️,1F3C3 1F3FC 200D 2642 FE0F 200D 27A1 FE0F   ,man running facing right: medium-light skin tone
+🏃🏽‍♀️,1F3C3 1F3FD 200D 2640 FE0F                  ,woman running: medium skin tone
+🏃🏽‍♀️‍➡️,1F3C3 1F3FD 200D 2640 FE0F 200D 27A1 FE0F   ,woman running facing right: medium skin tone
+🏃🏽‍♂️,1F3C3 1F3FD 200D 2642 FE0F                  ,man running: medium skin tone
+🏃🏽‍♂️‍➡️,1F3C3 1F3FD 200D 2642 FE0F 200D 27A1 FE0F   ,man running facing right: medium skin tone
+🏃🏾‍♀️,1F3C3 1F3FE 200D 2640 FE0F                  ,woman running: medium-dark skin tone
+🏃🏾‍♀️‍➡️,1F3C3 1F3FE 200D 2640 FE0F 200D 27A1 FE0F   ,woman running facing right: medium-dark skin tone
+🏃🏾‍♂️,1F3C3 1F3FE 200D 2642 FE0F                  ,man running: medium-dark skin tone
+🏃🏾‍♂️‍➡️,1F3C3 1F3FE 200D 2642 FE0F 200D 27A1 FE0F   ,man running facing right: medium-dark skin tone
+🏃🏿‍♀️,1F3C3 1F3FF 200D 2640 FE0F                  ,woman running: dark skin tone
+🏃🏿‍♀️‍➡️,1F3C3 1F3FF 200D 2640 FE0F 200D 27A1 FE0F   ,woman running facing right: dark skin tone
+🏃🏿‍♂️,1F3C3 1F3FF 200D 2642 FE0F                  ,man running: dark skin tone
+🏃🏿‍♂️‍➡️,1F3C3 1F3FF 200D 2642 FE0F 200D 27A1 FE0F   ,man running facing right: dark skin tone
+🏄‍♀️,1F3C4 200D 2640 FE0F                        ,woman surfing
+🏄‍♂️,1F3C4 200D 2642 FE0F                        ,man surfing
+🏄🏻‍♀️,1F3C4 1F3FB 200D 2640 FE0F                  ,woman surfing: light skin tone
+🏄🏻‍♂️,1F3C4 1F3FB 200D 2642 FE0F                  ,man surfing: light skin tone
+🏄🏼‍♀️,1F3C4 1F3FC 200D 2640 FE0F                  ,woman surfing: medium-light skin tone
+🏄🏼‍♂️,1F3C4 1F3FC 200D 2642 FE0F                  ,man surfing: medium-light skin tone
+🏄🏽‍♀️,1F3C4 1F3FD 200D 2640 FE0F                  ,woman surfing: medium skin tone
+🏄🏽‍♂️,1F3C4 1F3FD 200D 2642 FE0F                  ,man surfing: medium skin tone
+🏄🏾‍♀️,1F3C4 1F3FE 200D 2640 FE0F                  ,woman surfing: medium-dark skin tone
+🏄🏾‍♂️,1F3C4 1F3FE 200D 2642 FE0F                  ,man surfing: medium-dark skin tone
+🏄🏿‍♀️,1F3C4 1F3FF 200D 2640 FE0F                  ,woman surfing: dark skin tone
+🏄🏿‍♂️,1F3C4 1F3FF 200D 2642 FE0F                  ,man surfing: dark skin tone
+🏊‍♀️,1F3CA 200D 2640 FE0F                        ,woman swimming
+🏊‍♂️,1F3CA 200D 2642 FE0F                        ,man swimming
+🏊🏻‍♀️,1F3CA 1F3FB 200D 2640 FE0F                  ,woman swimming: light skin tone
+🏊🏻‍♂️,1F3CA 1F3FB 200D 2642 FE0F                  ,man swimming: light skin tone
+🏊🏼‍♀️,1F3CA 1F3FC 200D 2640 FE0F                  ,woman swimming: medium-light skin tone
+🏊🏼‍♂️,1F3CA 1F3FC 200D 2642 FE0F                  ,man swimming: medium-light skin tone
+🏊🏽‍♀️,1F3CA 1F3FD 200D 2640 FE0F                  ,woman swimming: medium skin tone
+🏊🏽‍♂️,1F3CA 1F3FD 200D 2642 FE0F                  ,man swimming: medium skin tone
+🏊🏾‍♀️,1F3CA 1F3FE 200D 2640 FE0F                  ,woman swimming: medium-dark skin tone
+🏊🏾‍♂️,1F3CA 1F3FE 200D 2642 FE0F                  ,man swimming: medium-dark skin tone
+🏊🏿‍♀️,1F3CA 1F3FF 200D 2640 FE0F                  ,woman swimming: dark skin tone
+🏊🏿‍♂️,1F3CA 1F3FF 200D 2642 FE0F                  ,man swimming: dark skin tone
+🏋🏻‍♀️,1F3CB 1F3FB 200D 2640 FE0F                  ,woman lifting weights: light skin tone
+🏋🏻‍♂️,1F3CB 1F3FB 200D 2642 FE0F                  ,man lifting weights: light skin tone
+🏋🏼‍♀️,1F3CB 1F3FC 200D 2640 FE0F                  ,woman lifting weights: medium-light skin tone
+🏋🏼‍♂️,1F3CB 1F3FC 200D 2642 FE0F                  ,man lifting weights: medium-light skin tone
+🏋🏽‍♀️,1F3CB 1F3FD 200D 2640 FE0F                  ,woman lifting weights: medium skin tone
+🏋🏽‍♂️,1F3CB 1F3FD 200D 2642 FE0F                  ,man lifting weights: medium skin tone
+🏋🏾‍♀️,1F3CB 1F3FE 200D 2640 FE0F                  ,woman lifting weights: medium-dark skin tone
+🏋🏾‍♂️,1F3CB 1F3FE 200D 2642 FE0F                  ,man lifting weights: medium-dark skin tone
+🏋🏿‍♀️,1F3CB 1F3FF 200D 2640 FE0F                  ,woman lifting weights: dark skin tone
+🏋🏿‍♂️,1F3CB 1F3FF 200D 2642 FE0F                  ,man lifting weights: dark skin tone
+🏋️‍♀️,1F3CB FE0F 200D 2640 FE0F                   ,woman lifting weights
+🏋️‍♂️,1F3CB FE0F 200D 2642 FE0F                   ,man lifting weights
+🏌🏻‍♀️,1F3CC 1F3FB 200D 2640 FE0F                  ,woman golfing: light skin tone
+🏌🏻‍♂️,1F3CC 1F3FB 200D 2642 FE0F                  ,man golfing: light skin tone
+🏌🏼‍♀️,1F3CC 1F3FC 200D 2640 FE0F                  ,woman golfing: medium-light skin tone
+🏌🏼‍♂️,1F3CC 1F3FC 200D 2642 FE0F                  ,man golfing: medium-light skin tone
+🏌🏽‍♀️,1F3CC 1F3FD 200D 2640 FE0F                  ,woman golfing: medium skin tone
+🏌🏽‍♂️,1F3CC 1F3FD 200D 2642 FE0F                  ,man golfing: medium skin tone
+🏌🏾‍♀️,1F3CC 1F3FE 200D 2640 FE0F                  ,woman golfing: medium-dark skin tone
+🏌🏾‍♂️,1F3CC 1F3FE 200D 2642 FE0F                  ,man golfing: medium-dark skin tone
+🏌🏿‍♀️,1F3CC 1F3FF 200D 2640 FE0F                  ,woman golfing: dark skin tone
+🏌🏿‍♂️,1F3CC 1F3FF 200D 2642 FE0F                  ,man golfing: dark skin tone
+🏌️‍♀️,1F3CC FE0F 200D 2640 FE0F                   ,woman golfing
+🏌️‍♂️,1F3CC FE0F 200D 2642 FE0F                   ,man golfing
+👮‍♀️,1F46E 200D 2640 FE0F                        ,woman police officer
+👮‍♂️,1F46E 200D 2642 FE0F                        ,man police officer
+👮🏻‍♀️,1F46E 1F3FB 200D 2640 FE0F                  ,woman police officer: light skin tone
+👮🏻‍♂️,1F46E 1F3FB 200D 2642 FE0F                  ,man police officer: light skin tone
+👮🏼‍♀️,1F46E 1F3FC 200D 2640 FE0F                  ,woman police officer: medium-light skin tone
+👮🏼‍♂️,1F46E 1F3FC 200D 2642 FE0F                  ,man police officer: medium-light skin tone
+👮🏽‍♀️,1F46E 1F3FD 200D 2640 FE0F                  ,woman police officer: medium skin tone
+👮🏽‍♂️,1F46E 1F3FD 200D 2642 FE0F                  ,man police officer: medium skin tone
+👮🏾‍♀️,1F46E 1F3FE 200D 2640 FE0F                  ,woman police officer: medium-dark skin tone
+👮🏾‍♂️,1F46E 1F3FE 200D 2642 FE0F                  ,man police officer: medium-dark skin tone
+👮🏿‍♀️,1F46E 1F3FF 200D 2640 FE0F                  ,woman police officer: dark skin tone
+👮🏿‍♂️,1F46E 1F3FF 200D 2642 FE0F                  ,man police officer: dark skin tone
+👯‍♀️,1F46F 200D 2640 FE0F                        ,women with bunny ears
+👯‍♂️,1F46F 200D 2642 FE0F                        ,men with bunny ears
+👰‍♀️,1F470 200D 2640 FE0F                        ,woman with veil
+👰‍♂️,1F470 200D 2642 FE0F                        ,man with veil
+👰🏻‍♀️,1F470 1F3FB 200D 2640 FE0F                  ,woman with veil: light skin tone
+👰🏻‍♂️,1F470 1F3FB 200D 2642 FE0F                  ,man with veil: light skin tone
+👰🏼‍♀️,1F470 1F3FC 200D 2640 FE0F                  ,woman with veil: medium-light skin tone
+👰🏼‍♂️,1F470 1F3FC 200D 2642 FE0F                  ,man with veil: medium-light skin tone
+👰🏽‍♀️,1F470 1F3FD 200D 2640 FE0F                  ,woman with veil: medium skin tone
+👰🏽‍♂️,1F470 1F3FD 200D 2642 FE0F                  ,man with veil: medium skin tone
+👰🏾‍♀️,1F470 1F3FE 200D 2640 FE0F                  ,woman with veil: medium-dark skin tone
+👰🏾‍♂️,1F470 1F3FE 200D 2642 FE0F                  ,man with veil: medium-dark skin tone
+👰🏿‍♀️,1F470 1F3FF 200D 2640 FE0F                  ,woman with veil: dark skin tone
+👰🏿‍♂️,1F470 1F3FF 200D 2642 FE0F                  ,man with veil: dark skin tone
+👱‍♀️,1F471 200D 2640 FE0F                        ,woman: blond hair
+👱‍♂️,1F471 200D 2642 FE0F                        ,man: blond hair
+👱🏻‍♀️,1F471 1F3FB 200D 2640 FE0F                  ,"woman: light skin tone, blond hair"
+👱🏻‍♂️,1F471 1F3FB 200D 2642 FE0F                  ,"man: light skin tone, blond hair"
+👱🏼‍♀️,1F471 1F3FC 200D 2640 FE0F                  ,"woman: medium-light skin tone, blond hair"
+👱🏼‍♂️,1F471 1F3FC 200D 2642 FE0F                  ,"man: medium-light skin tone, blond hair"
+👱🏽‍♀️,1F471 1F3FD 200D 2640 FE0F                  ,"woman: medium skin tone, blond hair"
+👱🏽‍♂️,1F471 1F3FD 200D 2642 FE0F                  ,"man: medium skin tone, blond hair"
+👱🏾‍♀️,1F471 1F3FE 200D 2640 FE0F                  ,"woman: medium-dark skin tone, blond hair"
+👱🏾‍♂️,1F471 1F3FE 200D 2642 FE0F                  ,"man: medium-dark skin tone, blond hair"
+👱🏿‍♀️,1F471 1F3FF 200D 2640 FE0F                  ,"woman: dark skin tone, blond hair"
+👱🏿‍♂️,1F471 1F3FF 200D 2642 FE0F                  ,"man: dark skin tone, blond hair"
+👳‍♀️,1F473 200D 2640 FE0F                        ,woman wearing turban
+👳‍♂️,1F473 200D 2642 FE0F                        ,man wearing turban
+👳🏻‍♀️,1F473 1F3FB 200D 2640 FE0F                  ,woman wearing turban: light skin tone
+👳🏻‍♂️,1F473 1F3FB 200D 2642 FE0F                  ,man wearing turban: light skin tone
+👳🏼‍♀️,1F473 1F3FC 200D 2640 FE0F                  ,woman wearing turban: medium-light skin tone
+👳🏼‍♂️,1F473 1F3FC 200D 2642 FE0F                  ,man wearing turban: medium-light skin tone
+👳🏽‍♀️,1F473 1F3FD 200D 2640 FE0F                  ,woman wearing turban: medium skin tone
+👳🏽‍♂️,1F473 1F3FD 200D 2642 FE0F                  ,man wearing turban: medium skin tone
+👳🏾‍♀️,1F473 1F3FE 200D 2640 FE0F                  ,woman wearing turban: medium-dark skin tone
+👳🏾‍♂️,1F473 1F3FE 200D 2642 FE0F                  ,man wearing turban: medium-dark skin tone
+👳🏿‍♀️,1F473 1F3FF 200D 2640 FE0F                  ,woman wearing turban: dark skin tone
+👳🏿‍♂️,1F473 1F3FF 200D 2642 FE0F                  ,man wearing turban: dark skin tone
+👷‍♀️,1F477 200D 2640 FE0F                        ,woman construction worker
+👷‍♂️,1F477 200D 2642 FE0F                        ,man construction worker
+👷🏻‍♀️,1F477 1F3FB 200D 2640 FE0F                  ,woman construction worker: light skin tone
+👷🏻‍♂️,1F477 1F3FB 200D 2642 FE0F                  ,man construction worker: light skin tone
+👷🏼‍♀️,1F477 1F3FC 200D 2640 FE0F                  ,woman construction worker: medium-light skin tone
+👷🏼‍♂️,1F477 1F3FC 200D 2642 FE0F                  ,man construction worker: medium-light skin tone
+👷🏽‍♀️,1F477 1F3FD 200D 2640 FE0F                  ,woman construction worker: medium skin tone
+👷🏽‍♂️,1F477 1F3FD 200D 2642 FE0F                  ,man construction worker: medium skin tone
+👷🏾‍♀️,1F477 1F3FE 200D 2640 FE0F                  ,woman construction worker: medium-dark skin tone
+👷🏾‍♂️,1F477 1F3FE 200D 2642 FE0F                  ,man construction worker: medium-dark skin tone
+👷🏿‍♀️,1F477 1F3FF 200D 2640 FE0F                  ,woman construction worker: dark skin tone
+👷🏿‍♂️,1F477 1F3FF 200D 2642 FE0F                  ,man construction worker: dark skin tone
+💁‍♀️,1F481 200D 2640 FE0F                        ,woman tipping hand
+💁‍♂️,1F481 200D 2642 FE0F                        ,man tipping hand
+💁🏻‍♀️,1F481 1F3FB 200D 2640 FE0F                  ,woman tipping hand: light skin tone
+💁🏻‍♂️,1F481 1F3FB 200D 2642 FE0F                  ,man tipping hand: light skin tone
+💁🏼‍♀️,1F481 1F3FC 200D 2640 FE0F                  ,woman tipping hand: medium-light skin tone
+💁🏼‍♂️,1F481 1F3FC 200D 2642 FE0F                  ,man tipping hand: medium-light skin tone
+💁🏽‍♀️,1F481 1F3FD 200D 2640 FE0F                  ,woman tipping hand: medium skin tone
+💁🏽‍♂️,1F481 1F3FD 200D 2642 FE0F                  ,man tipping hand: medium skin tone
+💁🏾‍♀️,1F481 1F3FE 200D 2640 FE0F                  ,woman tipping hand: medium-dark skin tone
+💁🏾‍♂️,1F481 1F3FE 200D 2642 FE0F                  ,man tipping hand: medium-dark skin tone
+💁🏿‍♀️,1F481 1F3FF 200D 2640 FE0F                  ,woman tipping hand: dark skin tone
+💁🏿‍♂️,1F481 1F3FF 200D 2642 FE0F                  ,man tipping hand: dark skin tone
+💂‍♀️,1F482 200D 2640 FE0F                        ,woman guard
+💂‍♂️,1F482 200D 2642 FE0F                        ,man guard
+💂🏻‍♀️,1F482 1F3FB 200D 2640 FE0F                  ,woman guard: light skin tone
+💂🏻‍♂️,1F482 1F3FB 200D 2642 FE0F                  ,man guard: light skin tone
+💂🏼‍♀️,1F482 1F3FC 200D 2640 FE0F                  ,woman guard: medium-light skin tone
+💂🏼‍♂️,1F482 1F3FC 200D 2642 FE0F                  ,man guard: medium-light skin tone
+💂🏽‍♀️,1F482 1F3FD 200D 2640 FE0F                  ,woman guard: medium skin tone
+💂🏽‍♂️,1F482 1F3FD 200D 2642 FE0F                  ,man guard: medium skin tone
+💂🏾‍♀️,1F482 1F3FE 200D 2640 FE0F                  ,woman guard: medium-dark skin tone
+💂🏾‍♂️,1F482 1F3FE 200D 2642 FE0F                  ,man guard: medium-dark skin tone
+💂🏿‍♀️,1F482 1F3FF 200D 2640 FE0F                  ,woman guard: dark skin tone
+💂🏿‍♂️,1F482 1F3FF 200D 2642 FE0F                  ,man guard: dark skin tone
+💆‍♀️,1F486 200D 2640 FE0F                        ,woman getting massage
+💆‍♂️,1F486 200D 2642 FE0F                        ,man getting massage
+💆🏻‍♀️,1F486 1F3FB 200D 2640 FE0F                  ,woman getting massage: light skin tone
+💆🏻‍♂️,1F486 1F3FB 200D 2642 FE0F                  ,man getting massage: light skin tone
+💆🏼‍♀️,1F486 1F3FC 200D 2640 FE0F                  ,woman getting massage: medium-light skin tone
+💆🏼‍♂️,1F486 1F3FC 200D 2642 FE0F                  ,man getting massage: medium-light skin tone
+💆🏽‍♀️,1F486 1F3FD 200D 2640 FE0F                  ,woman getting massage: medium skin tone
+💆🏽‍♂️,1F486 1F3FD 200D 2642 FE0F                  ,man getting massage: medium skin tone
+💆🏾‍♀️,1F486 1F3FE 200D 2640 FE0F                  ,woman getting massage: medium-dark skin tone
+💆🏾‍♂️,1F486 1F3FE 200D 2642 FE0F                  ,man getting massage: medium-dark skin tone
+💆🏿‍♀️,1F486 1F3FF 200D 2640 FE0F                  ,woman getting massage: dark skin tone
+💆🏿‍♂️,1F486 1F3FF 200D 2642 FE0F                  ,man getting massage: dark skin tone
+💇‍♀️,1F487 200D 2640 FE0F                        ,woman getting haircut
+💇‍♂️,1F487 200D 2642 FE0F                        ,man getting haircut
+💇🏻‍♀️,1F487 1F3FB 200D 2640 FE0F                  ,woman getting haircut: light skin tone
+💇🏻‍♂️,1F487 1F3FB 200D 2642 FE0F                  ,man getting haircut: light skin tone
+💇🏼‍♀️,1F487 1F3FC 200D 2640 FE0F                  ,woman getting haircut: medium-light skin tone
+💇🏼‍♂️,1F487 1F3FC 200D 2642 FE0F                  ,man getting haircut: medium-light skin tone
+💇🏽‍♀️,1F487 1F3FD 200D 2640 FE0F                  ,woman getting haircut: medium skin tone
+💇🏽‍♂️,1F487 1F3FD 200D 2642 FE0F                  ,man getting haircut: medium skin tone
+💇🏾‍♀️,1F487 1F3FE 200D 2640 FE0F                  ,woman getting haircut: medium-dark skin tone
+💇🏾‍♂️,1F487 1F3FE 200D 2642 FE0F                  ,man getting haircut: medium-dark skin tone
+💇🏿‍♀️,1F487 1F3FF 200D 2640 FE0F                  ,woman getting haircut: dark skin tone
+💇🏿‍♂️,1F487 1F3FF 200D 2642 FE0F                  ,man getting haircut: dark skin tone
+🕵🏻‍♀️,1F575 1F3FB 200D 2640 FE0F                  ,woman detective: light skin tone
+🕵🏻‍♂️,1F575 1F3FB 200D 2642 FE0F                  ,man detective: light skin tone
+🕵🏼‍♀️,1F575 1F3FC 200D 2640 FE0F                  ,woman detective: medium-light skin tone
+🕵🏼‍♂️,1F575 1F3FC 200D 2642 FE0F                  ,man detective: medium-light skin tone
+🕵🏽‍♀️,1F575 1F3FD 200D 2640 FE0F                  ,woman detective: medium skin tone
+🕵🏽‍♂️,1F575 1F3FD 200D 2642 FE0F                  ,man detective: medium skin tone
+🕵🏾‍♀️,1F575 1F3FE 200D 2640 FE0F                  ,woman detective: medium-dark skin tone
+🕵🏾‍♂️,1F575 1F3FE 200D 2642 FE0F                  ,man detective: medium-dark skin tone
+🕵🏿‍♀️,1F575 1F3FF 200D 2640 FE0F                  ,woman detective: dark skin tone
+🕵🏿‍♂️,1F575 1F3FF 200D 2642 FE0F                  ,man detective: dark skin tone
+🕵️‍♀️,1F575 FE0F 200D 2640 FE0F                   ,woman detective
+🕵️‍♂️,1F575 FE0F 200D 2642 FE0F                   ,man detective
+🙅‍♀️,1F645 200D 2640 FE0F                        ,woman gesturing NO
+🙅‍♂️,1F645 200D 2642 FE0F                        ,man gesturing NO
+🙅🏻‍♀️,1F645 1F3FB 200D 2640 FE0F                  ,woman gesturing NO: light skin tone
+🙅🏻‍♂️,1F645 1F3FB 200D 2642 FE0F                  ,man gesturing NO: light skin tone
+🙅🏼‍♀️,1F645 1F3FC 200D 2640 FE0F                  ,woman gesturing NO: medium-light skin tone
+🙅🏼‍♂️,1F645 1F3FC 200D 2642 FE0F                  ,man gesturing NO: medium-light skin tone
+🙅🏽‍♀️,1F645 1F3FD 200D 2640 FE0F                  ,woman gesturing NO: medium skin tone
+🙅🏽‍♂️,1F645 1F3FD 200D 2642 FE0F                  ,man gesturing NO: medium skin tone
+🙅🏾‍♀️,1F645 1F3FE 200D 2640 FE0F                  ,woman gesturing NO: medium-dark skin tone
+🙅🏾‍♂️,1F645 1F3FE 200D 2642 FE0F                  ,man gesturing NO: medium-dark skin tone
+🙅🏿‍♀️,1F645 1F3FF 200D 2640 FE0F                  ,woman gesturing NO: dark skin tone
+🙅🏿‍♂️,1F645 1F3FF 200D 2642 FE0F                  ,man gesturing NO: dark skin tone
+🙆‍♀️,1F646 200D 2640 FE0F                        ,woman gesturing OK
+🙆‍♂️,1F646 200D 2642 FE0F                        ,man gesturing OK
+🙆🏻‍♀️,1F646 1F3FB 200D 2640 FE0F                  ,woman gesturing OK: light skin tone
+🙆🏻‍♂️,1F646 1F3FB 200D 2642 FE0F                  ,man gesturing OK: light skin tone
+🙆🏼‍♀️,1F646 1F3FC 200D 2640 FE0F                  ,woman gesturing OK: medium-light skin tone
+🙆🏼‍♂️,1F646 1F3FC 200D 2642 FE0F                  ,man gesturing OK: medium-light skin tone
+🙆🏽‍♀️,1F646 1F3FD 200D 2640 FE0F                  ,woman gesturing OK: medium skin tone
+🙆🏽‍♂️,1F646 1F3FD 200D 2642 FE0F                  ,man gesturing OK: medium skin tone
+🙆🏾‍♀️,1F646 1F3FE 200D 2640 FE0F                  ,woman gesturing OK: medium-dark skin tone
+🙆🏾‍♂️,1F646 1F3FE 200D 2642 FE0F                  ,man gesturing OK: medium-dark skin tone
+🙆🏿‍♀️,1F646 1F3FF 200D 2640 FE0F                  ,woman gesturing OK: dark skin tone
+🙆🏿‍♂️,1F646 1F3FF 200D 2642 FE0F                  ,man gesturing OK: dark skin tone
+🙇‍♀️,1F647 200D 2640 FE0F                        ,woman bowing
+🙇‍♂️,1F647 200D 2642 FE0F                        ,man bowing
+🙇🏻‍♀️,1F647 1F3FB 200D 2640 FE0F                  ,woman bowing: light skin tone
+🙇🏻‍♂️,1F647 1F3FB 200D 2642 FE0F                  ,man bowing: light skin tone
+🙇🏼‍♀️,1F647 1F3FC 200D 2640 FE0F                  ,woman bowing: medium-light skin tone
+🙇🏼‍♂️,1F647 1F3FC 200D 2642 FE0F                  ,man bowing: medium-light skin tone
+🙇🏽‍♀️,1F647 1F3FD 200D 2640 FE0F                  ,woman bowing: medium skin tone
+🙇🏽‍♂️,1F647 1F3FD 200D 2642 FE0F                  ,man bowing: medium skin tone
+🙇🏾‍♀️,1F647 1F3FE 200D 2640 FE0F                  ,woman bowing: medium-dark skin tone
+🙇🏾‍♂️,1F647 1F3FE 200D 2642 FE0F                  ,man bowing: medium-dark skin tone
+🙇🏿‍♀️,1F647 1F3FF 200D 2640 FE0F                  ,woman bowing: dark skin tone
+🙇🏿‍♂️,1F647 1F3FF 200D 2642 FE0F                  ,man bowing: dark skin tone
+🙋‍♀️,1F64B 200D 2640 FE0F                        ,woman raising hand
+🙋‍♂️,1F64B 200D 2642 FE0F                        ,man raising hand
+🙋🏻‍♀️,1F64B 1F3FB 200D 2640 FE0F                  ,woman raising hand: light skin tone
+🙋🏻‍♂️,1F64B 1F3FB 200D 2642 FE0F                  ,man raising hand: light skin tone
+🙋🏼‍♀️,1F64B 1F3FC 200D 2640 FE0F                  ,woman raising hand: medium-light skin tone
+🙋🏼‍♂️,1F64B 1F3FC 200D 2642 FE0F                  ,man raising hand: medium-light skin tone
+🙋🏽‍♀️,1F64B 1F3FD 200D 2640 FE0F                  ,woman raising hand: medium skin tone
+🙋🏽‍♂️,1F64B 1F3FD 200D 2642 FE0F                  ,man raising hand: medium skin tone
+🙋🏾‍♀️,1F64B 1F3FE 200D 2640 FE0F                  ,woman raising hand: medium-dark skin tone
+🙋🏾‍♂️,1F64B 1F3FE 200D 2642 FE0F                  ,man raising hand: medium-dark skin tone
+🙋🏿‍♀️,1F64B 1F3FF 200D 2640 FE0F                  ,woman raising hand: dark skin tone
+🙋🏿‍♂️,1F64B 1F3FF 200D 2642 FE0F                  ,man raising hand: dark skin tone
+🙍‍♀️,1F64D 200D 2640 FE0F                        ,woman frowning
+🙍‍♂️,1F64D 200D 2642 FE0F                        ,man frowning
+🙍🏻‍♀️,1F64D 1F3FB 200D 2640 FE0F                  ,woman frowning: light skin tone
+🙍🏻‍♂️,1F64D 1F3FB 200D 2642 FE0F                  ,man frowning: light skin tone
+🙍🏼‍♀️,1F64D 1F3FC 200D 2640 FE0F                  ,woman frowning: medium-light skin tone
+🙍🏼‍♂️,1F64D 1F3FC 200D 2642 FE0F                  ,man frowning: medium-light skin tone
+🙍🏽‍♀️,1F64D 1F3FD 200D 2640 FE0F                  ,woman frowning: medium skin tone
+🙍🏽‍♂️,1F64D 1F3FD 200D 2642 FE0F                  ,man frowning: medium skin tone
+🙍🏾‍♀️,1F64D 1F3FE 200D 2640 FE0F                  ,woman frowning: medium-dark skin tone
+🙍🏾‍♂️,1F64D 1F3FE 200D 2642 FE0F                  ,man frowning: medium-dark skin tone
+🙍🏿‍♀️,1F64D 1F3FF 200D 2640 FE0F                  ,woman frowning: dark skin tone
+🙍🏿‍♂️,1F64D 1F3FF 200D 2642 FE0F                  ,man frowning: dark skin tone
+🙎‍♀️,1F64E 200D 2640 FE0F                        ,woman pouting
+🙎‍♂️,1F64E 200D 2642 FE0F                        ,man pouting
+🙎🏻‍♀️,1F64E 1F3FB 200D 2640 FE0F                  ,woman pouting: light skin tone
+🙎🏻‍♂️,1F64E 1F3FB 200D 2642 FE0F                  ,man pouting: light skin tone
+🙎🏼‍♀️,1F64E 1F3FC 200D 2640 FE0F                  ,woman pouting: medium-light skin tone
+🙎🏼‍♂️,1F64E 1F3FC 200D 2642 FE0F                  ,man pouting: medium-light skin tone
+🙎🏽‍♀️,1F64E 1F3FD 200D 2640 FE0F                  ,woman pouting: medium skin tone
+🙎🏽‍♂️,1F64E 1F3FD 200D 2642 FE0F                  ,man pouting: medium skin tone
+🙎🏾‍♀️,1F64E 1F3FE 200D 2640 FE0F                  ,woman pouting: medium-dark skin tone
+🙎🏾‍♂️,1F64E 1F3FE 200D 2642 FE0F                  ,man pouting: medium-dark skin tone
+🙎🏿‍♀️,1F64E 1F3FF 200D 2640 FE0F                  ,woman pouting: dark skin tone
+🙎🏿‍♂️,1F64E 1F3FF 200D 2642 FE0F                  ,man pouting: dark skin tone
+🚣‍♀️,1F6A3 200D 2640 FE0F                        ,woman rowing boat
+🚣‍♂️,1F6A3 200D 2642 FE0F                        ,man rowing boat
+🚣🏻‍♀️,1F6A3 1F3FB 200D 2640 FE0F                  ,woman rowing boat: light skin tone
+🚣🏻‍♂️,1F6A3 1F3FB 200D 2642 FE0F                  ,man rowing boat: light skin tone
+🚣🏼‍♀️,1F6A3 1F3FC 200D 2640 FE0F                  ,woman rowing boat: medium-light skin tone
+🚣🏼‍♂️,1F6A3 1F3FC 200D 2642 FE0F                  ,man rowing boat: medium-light skin tone
+🚣🏽‍♀️,1F6A3 1F3FD 200D 2640 FE0F                  ,woman rowing boat: medium skin tone
+🚣🏽‍♂️,1F6A3 1F3FD 200D 2642 FE0F                  ,man rowing boat: medium skin tone
+🚣🏾‍♀️,1F6A3 1F3FE 200D 2640 FE0F                  ,woman rowing boat: medium-dark skin tone
+🚣🏾‍♂️,1F6A3 1F3FE 200D 2642 FE0F                  ,man rowing boat: medium-dark skin tone
+🚣🏿‍♀️,1F6A3 1F3FF 200D 2640 FE0F                  ,woman rowing boat: dark skin tone
+🚣🏿‍♂️,1F6A3 1F3FF 200D 2642 FE0F                  ,man rowing boat: dark skin tone
+🚴‍♀️,1F6B4 200D 2640 FE0F                        ,woman biking
+🚴‍♂️,1F6B4 200D 2642 FE0F                        ,man biking
+🚴🏻‍♀️,1F6B4 1F3FB 200D 2640 FE0F                  ,woman biking: light skin tone
+🚴🏻‍♂️,1F6B4 1F3FB 200D 2642 FE0F                  ,man biking: light skin tone
+🚴🏼‍♀️,1F6B4 1F3FC 200D 2640 FE0F                  ,woman biking: medium-light skin tone
+🚴🏼‍♂️,1F6B4 1F3FC 200D 2642 FE0F                  ,man biking: medium-light skin tone
+🚴🏽‍♀️,1F6B4 1F3FD 200D 2640 FE0F                  ,woman biking: medium skin tone
+🚴🏽‍♂️,1F6B4 1F3FD 200D 2642 FE0F                  ,man biking: medium skin tone
+🚴🏾‍♀️,1F6B4 1F3FE 200D 2640 FE0F                  ,woman biking: medium-dark skin tone
+🚴🏾‍♂️,1F6B4 1F3FE 200D 2642 FE0F                  ,man biking: medium-dark skin tone
+🚴🏿‍♀️,1F6B4 1F3FF 200D 2640 FE0F                  ,woman biking: dark skin tone
+🚴🏿‍♂️,1F6B4 1F3FF 200D 2642 FE0F                  ,man biking: dark skin tone
+🚵‍♀️,1F6B5 200D 2640 FE0F                        ,woman mountain biking
+🚵‍♂️,1F6B5 200D 2642 FE0F                        ,man mountain biking
+🚵🏻‍♀️,1F6B5 1F3FB 200D 2640 FE0F                  ,woman mountain biking: light skin tone
+🚵🏻‍♂️,1F6B5 1F3FB 200D 2642 FE0F                  ,man mountain biking: light skin tone
+🚵🏼‍♀️,1F6B5 1F3FC 200D 2640 FE0F                  ,woman mountain biking: medium-light skin tone
+🚵🏼‍♂️,1F6B5 1F3FC 200D 2642 FE0F                  ,man mountain biking: medium-light skin tone
+🚵🏽‍♀️,1F6B5 1F3FD 200D 2640 FE0F                  ,woman mountain biking: medium skin tone
+🚵🏽‍♂️,1F6B5 1F3FD 200D 2642 FE0F                  ,man mountain biking: medium skin tone
+🚵🏾‍♀️,1F6B5 1F3FE 200D 2640 FE0F                  ,woman mountain biking: medium-dark skin tone
+🚵🏾‍♂️,1F6B5 1F3FE 200D 2642 FE0F                  ,man mountain biking: medium-dark skin tone
+🚵🏿‍♀️,1F6B5 1F3FF 200D 2640 FE0F                  ,woman mountain biking: dark skin tone
+🚵🏿‍♂️,1F6B5 1F3FF 200D 2642 FE0F                  ,man mountain biking: dark skin tone
+🚶‍♀️,1F6B6 200D 2640 FE0F                        ,woman walking
+🚶‍♀️‍➡️,1F6B6 200D 2640 FE0F 200D 27A1 FE0F         ,woman walking facing right
+🚶‍♂️,1F6B6 200D 2642 FE0F                        ,man walking
+🚶‍♂️‍➡️,1F6B6 200D 2642 FE0F 200D 27A1 FE0F         ,man walking facing right
+🚶🏻‍♀️,1F6B6 1F3FB 200D 2640 FE0F                  ,woman walking: light skin tone
+🚶🏻‍♀️‍➡️,1F6B6 1F3FB 200D 2640 FE0F 200D 27A1 FE0F   ,woman walking facing right: light skin tone
+🚶🏻‍♂️,1F6B6 1F3FB 200D 2642 FE0F                  ,man walking: light skin tone
+🚶🏻‍♂️‍➡️,1F6B6 1F3FB 200D 2642 FE0F 200D 27A1 FE0F   ,man walking facing right: light skin tone
+🚶🏼‍♀️,1F6B6 1F3FC 200D 2640 FE0F                  ,woman walking: medium-light skin tone
+🚶🏼‍♀️‍➡️,1F6B6 1F3FC 200D 2640 FE0F 200D 27A1 FE0F   ,woman walking facing right: medium-light skin tone
+🚶🏼‍♂️,1F6B6 1F3FC 200D 2642 FE0F                  ,man walking: medium-light skin tone
+🚶🏼‍♂️‍➡️,1F6B6 1F3FC 200D 2642 FE0F 200D 27A1 FE0F   ,man walking facing right: medium-light skin tone
+🚶🏽‍♀️,1F6B6 1F3FD 200D 2640 FE0F                  ,woman walking: medium skin tone
+🚶🏽‍♀️‍➡️,1F6B6 1F3FD 200D 2640 FE0F 200D 27A1 FE0F   ,woman walking facing right: medium skin tone
+🚶🏽‍♂️,1F6B6 1F3FD 200D 2642 FE0F                  ,man walking: medium skin tone
+🚶🏽‍♂️‍➡️,1F6B6 1F3FD 200D 2642 FE0F 200D 27A1 FE0F   ,man walking facing right: medium skin tone
+🚶🏾‍♀️,1F6B6 1F3FE 200D 2640 FE0F                  ,woman walking: medium-dark skin tone
+🚶🏾‍♀️‍➡️,1F6B6 1F3FE 200D 2640 FE0F 200D 27A1 FE0F   ,woman walking facing right: medium-dark skin tone
+🚶🏾‍♂️,1F6B6 1F3FE 200D 2642 FE0F                  ,man walking: medium-dark skin tone
+🚶🏾‍♂️‍➡️,1F6B6 1F3FE 200D 2642 FE0F 200D 27A1 FE0F   ,man walking facing right: medium-dark skin tone
+🚶🏿‍♀️,1F6B6 1F3FF 200D 2640 FE0F                  ,woman walking: dark skin tone
+🚶🏿‍♀️‍➡️,1F6B6 1F3FF 200D 2640 FE0F 200D 27A1 FE0F   ,woman walking facing right: dark skin tone
+🚶🏿‍♂️,1F6B6 1F3FF 200D 2642 FE0F                  ,man walking: dark skin tone
+🚶🏿‍♂️‍➡️,1F6B6 1F3FF 200D 2642 FE0F 200D 27A1 FE0F   ,man walking facing right: dark skin tone
+🤦‍♀️,1F926 200D 2640 FE0F                        ,woman facepalming
+🤦‍♂️,1F926 200D 2642 FE0F                        ,man facepalming
+🤦🏻‍♀️,1F926 1F3FB 200D 2640 FE0F                  ,woman facepalming: light skin tone
+🤦🏻‍♂️,1F926 1F3FB 200D 2642 FE0F                  ,man facepalming: light skin tone
+🤦🏼‍♀️,1F926 1F3FC 200D 2640 FE0F                  ,woman facepalming: medium-light skin tone
+🤦🏼‍♂️,1F926 1F3FC 200D 2642 FE0F                  ,man facepalming: medium-light skin tone
+🤦🏽‍♀️,1F926 1F3FD 200D 2640 FE0F                  ,woman facepalming: medium skin tone
+🤦🏽‍♂️,1F926 1F3FD 200D 2642 FE0F                  ,man facepalming: medium skin tone
+🤦🏾‍♀️,1F926 1F3FE 200D 2640 FE0F                  ,woman facepalming: medium-dark skin tone
+🤦🏾‍♂️,1F926 1F3FE 200D 2642 FE0F                  ,man facepalming: medium-dark skin tone
+🤦🏿‍♀️,1F926 1F3FF 200D 2640 FE0F                  ,woman facepalming: dark skin tone
+🤦🏿‍♂️,1F926 1F3FF 200D 2642 FE0F                  ,man facepalming: dark skin tone
+🤵‍♀️,1F935 200D 2640 FE0F                        ,woman in tuxedo
+🤵‍♂️,1F935 200D 2642 FE0F                        ,man in tuxedo
+🤵🏻‍♀️,1F935 1F3FB 200D 2640 FE0F                  ,woman in tuxedo: light skin tone
+🤵🏻‍♂️,1F935 1F3FB 200D 2642 FE0F                  ,man in tuxedo: light skin tone
+🤵🏼‍♀️,1F935 1F3FC 200D 2640 FE0F                  ,woman in tuxedo: medium-light skin tone
+🤵🏼‍♂️,1F935 1F3FC 200D 2642 FE0F                  ,man in tuxedo: medium-light skin tone
+🤵🏽‍♀️,1F935 1F3FD 200D 2640 FE0F                  ,woman in tuxedo: medium skin tone
+🤵🏽‍♂️,1F935 1F3FD 200D 2642 FE0F                  ,man in tuxedo: medium skin tone
+🤵🏾‍♀️,1F935 1F3FE 200D 2640 FE0F                  ,woman in tuxedo: medium-dark skin tone
+🤵🏾‍♂️,1F935 1F3FE 200D 2642 FE0F                  ,man in tuxedo: medium-dark skin tone
+🤵🏿‍♀️,1F935 1F3FF 200D 2640 FE0F                  ,woman in tuxedo: dark skin tone
+🤵🏿‍♂️,1F935 1F3FF 200D 2642 FE0F                  ,man in tuxedo: dark skin tone
+🤷‍♀️,1F937 200D 2640 FE0F                        ,woman shrugging
+🤷‍♂️,1F937 200D 2642 FE0F                        ,man shrugging
+🤷🏻‍♀️,1F937 1F3FB 200D 2640 FE0F                  ,woman shrugging: light skin tone
+🤷🏻‍♂️,1F937 1F3FB 200D 2642 FE0F                  ,man shrugging: light skin tone
+🤷🏼‍♀️,1F937 1F3FC 200D 2640 FE0F                  ,woman shrugging: medium-light skin tone
+🤷🏼‍♂️,1F937 1F3FC 200D 2642 FE0F                  ,man shrugging: medium-light skin tone
+🤷🏽‍♀️,1F937 1F3FD 200D 2640 FE0F                  ,woman shrugging: medium skin tone
+🤷🏽‍♂️,1F937 1F3FD 200D 2642 FE0F                  ,man shrugging: medium skin tone
+🤷🏾‍♀️,1F937 1F3FE 200D 2640 FE0F                  ,woman shrugging: medium-dark skin tone
+🤷🏾‍♂️,1F937 1F3FE 200D 2642 FE0F                  ,man shrugging: medium-dark skin tone
+🤷🏿‍♀️,1F937 1F3FF 200D 2640 FE0F                  ,woman shrugging: dark skin tone
+🤷🏿‍♂️,1F937 1F3FF 200D 2642 FE0F                  ,man shrugging: dark skin tone
+🤸‍♀️,1F938 200D 2640 FE0F                        ,woman cartwheeling
+🤸‍♂️,1F938 200D 2642 FE0F                        ,man cartwheeling
+🤸🏻‍♀️,1F938 1F3FB 200D 2640 FE0F                  ,woman cartwheeling: light skin tone
+🤸🏻‍♂️,1F938 1F3FB 200D 2642 FE0F                  ,man cartwheeling: light skin tone
+🤸🏼‍♀️,1F938 1F3FC 200D 2640 FE0F                  ,woman cartwheeling: medium-light skin tone
+🤸🏼‍♂️,1F938 1F3FC 200D 2642 FE0F                  ,man cartwheeling: medium-light skin tone
+🤸🏽‍♀️,1F938 1F3FD 200D 2640 FE0F                  ,woman cartwheeling: medium skin tone
+🤸🏽‍♂️,1F938 1F3FD 200D 2642 FE0F                  ,man cartwheeling: medium skin tone
+🤸🏾‍♀️,1F938 1F3FE 200D 2640 FE0F                  ,woman cartwheeling: medium-dark skin tone
+🤸🏾‍♂️,1F938 1F3FE 200D 2642 FE0F                  ,man cartwheeling: medium-dark skin tone
+🤸🏿‍♀️,1F938 1F3FF 200D 2640 FE0F                  ,woman cartwheeling: dark skin tone
+🤸🏿‍♂️,1F938 1F3FF 200D 2642 FE0F                  ,man cartwheeling: dark skin tone
+🤹‍♀️,1F939 200D 2640 FE0F                        ,woman juggling
+🤹‍♂️,1F939 200D 2642 FE0F                        ,man juggling
+🤹🏻‍♀️,1F939 1F3FB 200D 2640 FE0F                  ,woman juggling: light skin tone
+🤹🏻‍♂️,1F939 1F3FB 200D 2642 FE0F                  ,man juggling: light skin tone
+🤹🏼‍♀️,1F939 1F3FC 200D 2640 FE0F                  ,woman juggling: medium-light skin tone
+🤹🏼‍♂️,1F939 1F3FC 200D 2642 FE0F                  ,man juggling: medium-light skin tone
+🤹🏽‍♀️,1F939 1F3FD 200D 2640 FE0F                  ,woman juggling: medium skin tone
+🤹🏽‍♂️,1F939 1F3FD 200D 2642 FE0F                  ,man juggling: medium skin tone
+🤹🏾‍♀️,1F939 1F3FE 200D 2640 FE0F                  ,woman juggling: medium-dark skin tone
+🤹🏾‍♂️,1F939 1F3FE 200D 2642 FE0F                  ,man juggling: medium-dark skin tone
+🤹🏿‍♀️,1F939 1F3FF 200D 2640 FE0F                  ,woman juggling: dark skin tone
+🤹🏿‍♂️,1F939 1F3FF 200D 2642 FE0F                  ,man juggling: dark skin tone
+🤼‍♀️,1F93C 200D 2640 FE0F                        ,women wrestling
+🤼‍♂️,1F93C 200D 2642 FE0F                        ,men wrestling
+🤽‍♀️,1F93D 200D 2640 FE0F                        ,woman playing water polo
+🤽‍♂️,1F93D 200D 2642 FE0F                        ,man playing water polo
+🤽🏻‍♀️,1F93D 1F3FB 200D 2640 FE0F                  ,woman playing water polo: light skin tone
+🤽🏻‍♂️,1F93D 1F3FB 200D 2642 FE0F                  ,man playing water polo: light skin tone
+🤽🏼‍♀️,1F93D 1F3FC 200D 2640 FE0F                  ,woman playing water polo: medium-light skin tone
+🤽🏼‍♂️,1F93D 1F3FC 200D 2642 FE0F                  ,man playing water polo: medium-light skin tone
+🤽🏽‍♀️,1F93D 1F3FD 200D 2640 FE0F                  ,woman playing water polo: medium skin tone
+🤽🏽‍♂️,1F93D 1F3FD 200D 2642 FE0F                  ,man playing water polo: medium skin tone
+🤽🏾‍♀️,1F93D 1F3FE 200D 2640 FE0F                  ,woman playing water polo: medium-dark skin tone
+🤽🏾‍♂️,1F93D 1F3FE 200D 2642 FE0F                  ,man playing water polo: medium-dark skin tone
+🤽🏿‍♀️,1F93D 1F3FF 200D 2640 FE0F                  ,woman playing water polo: dark skin tone
+🤽🏿‍♂️,1F93D 1F3FF 200D 2642 FE0F                  ,man playing water polo: dark skin tone
+🤾‍♀️,1F93E 200D 2640 FE0F                        ,woman playing handball
+🤾‍♂️,1F93E 200D 2642 FE0F                        ,man playing handball
+🤾🏻‍♀️,1F93E 1F3FB 200D 2640 FE0F                  ,woman playing handball: light skin tone
+🤾🏻‍♂️,1F93E 1F3FB 200D 2642 FE0F                  ,man playing handball: light skin tone
+🤾🏼‍♀️,1F93E 1F3FC 200D 2640 FE0F                  ,woman playing handball: medium-light skin tone
+🤾🏼‍♂️,1F93E 1F3FC 200D 2642 FE0F                  ,man playing handball: medium-light skin tone
+🤾🏽‍♀️,1F93E 1F3FD 200D 2640 FE0F                  ,woman playing handball: medium skin tone
+🤾🏽‍♂️,1F93E 1F3FD 200D 2642 FE0F                  ,man playing handball: medium skin tone
+🤾🏾‍♀️,1F93E 1F3FE 200D 2640 FE0F                  ,woman playing handball: medium-dark skin tone
+🤾🏾‍♂️,1F93E 1F3FE 200D 2642 FE0F                  ,man playing handball: medium-dark skin tone
+🤾🏿‍♀️,1F93E 1F3FF 200D 2640 FE0F                  ,woman playing handball: dark skin tone
+🤾🏿‍♂️,1F93E 1F3FF 200D 2642 FE0F                  ,man playing handball: dark skin tone
+🦸‍♀️,1F9B8 200D 2640 FE0F                        ,woman superhero
+🦸‍♂️,1F9B8 200D 2642 FE0F                        ,man superhero
+🦸🏻‍♀️,1F9B8 1F3FB 200D 2640 FE0F                  ,woman superhero: light skin tone
+🦸🏻‍♂️,1F9B8 1F3FB 200D 2642 FE0F                  ,man superhero: light skin tone
+🦸🏼‍♀️,1F9B8 1F3FC 200D 2640 FE0F                  ,woman superhero: medium-light skin tone
+🦸🏼‍♂️,1F9B8 1F3FC 200D 2642 FE0F                  ,man superhero: medium-light skin tone
+🦸🏽‍♀️,1F9B8 1F3FD 200D 2640 FE0F                  ,woman superhero: medium skin tone
+🦸🏽‍♂️,1F9B8 1F3FD 200D 2642 FE0F                  ,man superhero: medium skin tone
+🦸🏾‍♀️,1F9B8 1F3FE 200D 2640 FE0F                  ,woman superhero: medium-dark skin tone
+🦸🏾‍♂️,1F9B8 1F3FE 200D 2642 FE0F                  ,man superhero: medium-dark skin tone
+🦸🏿‍♀️,1F9B8 1F3FF 200D 2640 FE0F                  ,woman superhero: dark skin tone
+🦸🏿‍♂️,1F9B8 1F3FF 200D 2642 FE0F                  ,man superhero: dark skin tone
+🦹‍♀️,1F9B9 200D 2640 FE0F                        ,woman supervillain
+🦹‍♂️,1F9B9 200D 2642 FE0F                        ,man supervillain
+🦹🏻‍♀️,1F9B9 1F3FB 200D 2640 FE0F                  ,woman supervillain: light skin tone
+🦹🏻‍♂️,1F9B9 1F3FB 200D 2642 FE0F                  ,man supervillain: light skin tone
+🦹🏼‍♀️,1F9B9 1F3FC 200D 2640 FE0F                  ,woman supervillain: medium-light skin tone
+🦹🏼‍♂️,1F9B9 1F3FC 200D 2642 FE0F                  ,man supervillain: medium-light skin tone
+🦹🏽‍♀️,1F9B9 1F3FD 200D 2640 FE0F                  ,woman supervillain: medium skin tone
+🦹🏽‍♂️,1F9B9 1F3FD 200D 2642 FE0F                  ,man supervillain: medium skin tone
+🦹🏾‍♀️,1F9B9 1F3FE 200D 2640 FE0F                  ,woman supervillain: medium-dark skin tone
+🦹🏾‍♂️,1F9B9 1F3FE 200D 2642 FE0F                  ,man supervillain: medium-dark skin tone
+🦹🏿‍♀️,1F9B9 1F3FF 200D 2640 FE0F                  ,woman supervillain: dark skin tone
+🦹🏿‍♂️,1F9B9 1F3FF 200D 2642 FE0F                  ,man supervillain: dark skin tone
+🧍‍♀️,1F9CD 200D 2640 FE0F                        ,woman standing
+🧍‍♂️,1F9CD 200D 2642 FE0F                        ,man standing
+🧍🏻‍♀️,1F9CD 1F3FB 200D 2640 FE0F                  ,woman standing: light skin tone
+🧍🏻‍♂️,1F9CD 1F3FB 200D 2642 FE0F                  ,man standing: light skin tone
+🧍🏼‍♀️,1F9CD 1F3FC 200D 2640 FE0F                  ,woman standing: medium-light skin tone
+🧍🏼‍♂️,1F9CD 1F3FC 200D 2642 FE0F                  ,man standing: medium-light skin tone
+🧍🏽‍♀️,1F9CD 1F3FD 200D 2640 FE0F                  ,woman standing: medium skin tone
+🧍🏽‍♂️,1F9CD 1F3FD 200D 2642 FE0F                  ,man standing: medium skin tone
+🧍🏾‍♀️,1F9CD 1F3FE 200D 2640 FE0F                  ,woman standing: medium-dark skin tone
+🧍🏾‍♂️,1F9CD 1F3FE 200D 2642 FE0F                  ,man standing: medium-dark skin tone
+🧍🏿‍♀️,1F9CD 1F3FF 200D 2640 FE0F                  ,woman standing: dark skin tone
+🧍🏿‍♂️,1F9CD 1F3FF 200D 2642 FE0F                  ,man standing: dark skin tone
+🧎‍♀️,1F9CE 200D 2640 FE0F                        ,woman kneeling
+🧎‍♀️‍➡️,1F9CE 200D 2640 FE0F 200D 27A1 FE0F         ,woman kneeling facing right
+🧎‍♂️,1F9CE 200D 2642 FE0F                        ,man kneeling
+🧎‍♂️‍➡️,1F9CE 200D 2642 FE0F 200D 27A1 FE0F         ,man kneeling facing right
+🧎🏻‍♀️,1F9CE 1F3FB 200D 2640 FE0F                  ,woman kneeling: light skin tone
+🧎🏻‍♀️‍➡️,1F9CE 1F3FB 200D 2640 FE0F 200D 27A1 FE0F   ,woman kneeling facing right: light skin tone
+🧎🏻‍♂️,1F9CE 1F3FB 200D 2642 FE0F                  ,man kneeling: light skin tone
+🧎🏻‍♂️‍➡️,1F9CE 1F3FB 200D 2642 FE0F 200D 27A1 FE0F   ,man kneeling facing right: light skin tone
+🧎🏼‍♀️,1F9CE 1F3FC 200D 2640 FE0F                  ,woman kneeling: medium-light skin tone
+🧎🏼‍♀️‍➡️,1F9CE 1F3FC 200D 2640 FE0F 200D 27A1 FE0F   ,woman kneeling facing right: medium-light skin tone
+🧎🏼‍♂️,1F9CE 1F3FC 200D 2642 FE0F                  ,man kneeling: medium-light skin tone
+🧎🏼‍♂️‍➡️,1F9CE 1F3FC 200D 2642 FE0F 200D 27A1 FE0F   ,man kneeling facing right: medium-light skin tone
+🧎🏽‍♀️,1F9CE 1F3FD 200D 2640 FE0F                  ,woman kneeling: medium skin tone
+🧎🏽‍♀️‍➡️,1F9CE 1F3FD 200D 2640 FE0F 200D 27A1 FE0F   ,woman kneeling facing right: medium skin tone
+🧎🏽‍♂️,1F9CE 1F3FD 200D 2642 FE0F                  ,man kneeling: medium skin tone
+🧎🏽‍♂️‍➡️,1F9CE 1F3FD 200D 2642 FE0F 200D 27A1 FE0F   ,man kneeling facing right: medium skin tone
+🧎🏾‍♀️,1F9CE 1F3FE 200D 2640 FE0F                  ,woman kneeling: medium-dark skin tone
+🧎🏾‍♀️‍➡️,1F9CE 1F3FE 200D 2640 FE0F 200D 27A1 FE0F   ,woman kneeling facing right: medium-dark skin tone
+🧎🏾‍♂️,1F9CE 1F3FE 200D 2642 FE0F                  ,man kneeling: medium-dark skin tone
+🧎🏾‍♂️‍➡️,1F9CE 1F3FE 200D 2642 FE0F 200D 27A1 FE0F   ,man kneeling facing right: medium-dark skin tone
+🧎🏿‍♀️,1F9CE 1F3FF 200D 2640 FE0F                  ,woman kneeling: dark skin tone
+🧎🏿‍♀️‍➡️,1F9CE 1F3FF 200D 2640 FE0F 200D 27A1 FE0F   ,woman kneeling facing right: dark skin tone
+🧎🏿‍♂️,1F9CE 1F3FF 200D 2642 FE0F                  ,man kneeling: dark skin tone
+🧎🏿‍♂️‍➡️,1F9CE 1F3FF 200D 2642 FE0F 200D 27A1 FE0F   ,man kneeling facing right: dark skin tone
+🧏‍♀️,1F9CF 200D 2640 FE0F                        ,deaf woman
+🧏‍♂️,1F9CF 200D 2642 FE0F                        ,deaf man
+🧏🏻‍♀️,1F9CF 1F3FB 200D 2640 FE0F                  ,deaf woman: light skin tone
+🧏🏻‍♂️,1F9CF 1F3FB 200D 2642 FE0F                  ,deaf man: light skin tone
+🧏🏼‍♀️,1F9CF 1F3FC 200D 2640 FE0F                  ,deaf woman: medium-light skin tone
+🧏🏼‍♂️,1F9CF 1F3FC 200D 2642 FE0F                  ,deaf man: medium-light skin tone
+🧏🏽‍♀️,1F9CF 1F3FD 200D 2640 FE0F                  ,deaf woman: medium skin tone
+🧏🏽‍♂️,1F9CF 1F3FD 200D 2642 FE0F                  ,deaf man: medium skin tone
+🧏🏾‍♀️,1F9CF 1F3FE 200D 2640 FE0F                  ,deaf woman: medium-dark skin tone
+🧏🏾‍♂️,1F9CF 1F3FE 200D 2642 FE0F                  ,deaf man: medium-dark skin tone
+🧏🏿‍♀️,1F9CF 1F3FF 200D 2640 FE0F                  ,deaf woman: dark skin tone
+🧏🏿‍♂️,1F9CF 1F3FF 200D 2642 FE0F                  ,deaf man: dark skin tone
+🧔‍♀️,1F9D4 200D 2640 FE0F                        ,woman: beard
+🧔‍♂️,1F9D4 200D 2642 FE0F                        ,man: beard
+🧔🏻‍♀️,1F9D4 1F3FB 200D 2640 FE0F                  ,"woman: light skin tone, beard"
+🧔🏻‍♂️,1F9D4 1F3FB 200D 2642 FE0F                  ,"man: light skin tone, beard"
+🧔🏼‍♀️,1F9D4 1F3FC 200D 2640 FE0F                  ,"woman: medium-light skin tone, beard"
+🧔🏼‍♂️,1F9D4 1F3FC 200D 2642 FE0F                  ,"man: medium-light skin tone, beard"
+🧔🏽‍♀️,1F9D4 1F3FD 200D 2640 FE0F                  ,"woman: medium skin tone, beard"
+🧔🏽‍♂️,1F9D4 1F3FD 200D 2642 FE0F                  ,"man: medium skin tone, beard"
+🧔🏾‍♀️,1F9D4 1F3FE 200D 2640 FE0F                  ,"woman: medium-dark skin tone, beard"
+🧔🏾‍♂️,1F9D4 1F3FE 200D 2642 FE0F                  ,"man: medium-dark skin tone, beard"
+🧔🏿‍♀️,1F9D4 1F3FF 200D 2640 FE0F                  ,"woman: dark skin tone, beard"
+🧔🏿‍♂️,1F9D4 1F3FF 200D 2642 FE0F                  ,"man: dark skin tone, beard"
+🧖‍♀️,1F9D6 200D 2640 FE0F                        ,woman in steamy room
+🧖‍♂️,1F9D6 200D 2642 FE0F                        ,man in steamy room
+🧖🏻‍♀️,1F9D6 1F3FB 200D 2640 FE0F                  ,woman in steamy room: light skin tone
+🧖🏻‍♂️,1F9D6 1F3FB 200D 2642 FE0F                  ,man in steamy room: light skin tone
+🧖🏼‍♀️,1F9D6 1F3FC 200D 2640 FE0F                  ,woman in steamy room: medium-light skin tone
+🧖🏼‍♂️,1F9D6 1F3FC 200D 2642 FE0F                  ,man in steamy room: medium-light skin tone
+🧖🏽‍♀️,1F9D6 1F3FD 200D 2640 FE0F                  ,woman in steamy room: medium skin tone
+🧖🏽‍♂️,1F9D6 1F3FD 200D 2642 FE0F                  ,man in steamy room: medium skin tone
+🧖🏾‍♀️,1F9D6 1F3FE 200D 2640 FE0F                  ,woman in steamy room: medium-dark skin tone
+🧖🏾‍♂️,1F9D6 1F3FE 200D 2642 FE0F                  ,man in steamy room: medium-dark skin tone
+🧖🏿‍♀️,1F9D6 1F3FF 200D 2640 FE0F                  ,woman in steamy room: dark skin tone
+🧖🏿‍♂️,1F9D6 1F3FF 200D 2642 FE0F                  ,man in steamy room: dark skin tone
+🧗‍♀️,1F9D7 200D 2640 FE0F                        ,woman climbing
+🧗‍♂️,1F9D7 200D 2642 FE0F                        ,man climbing
+🧗🏻‍♀️,1F9D7 1F3FB 200D 2640 FE0F                  ,woman climbing: light skin tone
+🧗🏻‍♂️,1F9D7 1F3FB 200D 2642 FE0F                  ,man climbing: light skin tone
+🧗🏼‍♀️,1F9D7 1F3FC 200D 2640 FE0F                  ,woman climbing: medium-light skin tone
+🧗🏼‍♂️,1F9D7 1F3FC 200D 2642 FE0F                  ,man climbing: medium-light skin tone
+🧗🏽‍♀️,1F9D7 1F3FD 200D 2640 FE0F                  ,woman climbing: medium skin tone
+🧗🏽‍♂️,1F9D7 1F3FD 200D 2642 FE0F                  ,man climbing: medium skin tone
+🧗🏾‍♀️,1F9D7 1F3FE 200D 2640 FE0F                  ,woman climbing: medium-dark skin tone
+🧗🏾‍♂️,1F9D7 1F3FE 200D 2642 FE0F                  ,man climbing: medium-dark skin tone
+🧗🏿‍♀️,1F9D7 1F3FF 200D 2640 FE0F                  ,woman climbing: dark skin tone
+🧗🏿‍♂️,1F9D7 1F3FF 200D 2642 FE0F                  ,man climbing: dark skin tone
+🧘‍♀️,1F9D8 200D 2640 FE0F                        ,woman in lotus position
+🧘‍♂️,1F9D8 200D 2642 FE0F                        ,man in lotus position
+🧘🏻‍♀️,1F9D8 1F3FB 200D 2640 FE0F                  ,woman in lotus position: light skin tone
+🧘🏻‍♂️,1F9D8 1F3FB 200D 2642 FE0F                  ,man in lotus position: light skin tone
+🧘🏼‍♀️,1F9D8 1F3FC 200D 2640 FE0F                  ,woman in lotus position: medium-light skin tone
+🧘🏼‍♂️,1F9D8 1F3FC 200D 2642 FE0F                  ,man in lotus position: medium-light skin tone
+🧘🏽‍♀️,1F9D8 1F3FD 200D 2640 FE0F                  ,woman in lotus position: medium skin tone
+🧘🏽‍♂️,1F9D8 1F3FD 200D 2642 FE0F                  ,man in lotus position: medium skin tone
+🧘🏾‍♀️,1F9D8 1F3FE 200D 2640 FE0F                  ,woman in lotus position: medium-dark skin tone
+🧘🏾‍♂️,1F9D8 1F3FE 200D 2642 FE0F                  ,man in lotus position: medium-dark skin tone
+🧘🏿‍♀️,1F9D8 1F3FF 200D 2640 FE0F                  ,woman in lotus position: dark skin tone
+🧘🏿‍♂️,1F9D8 1F3FF 200D 2642 FE0F                  ,man in lotus position: dark skin tone
+🧙‍♀️,1F9D9 200D 2640 FE0F                        ,woman mage
+🧙‍♂️,1F9D9 200D 2642 FE0F                        ,man mage
+🧙🏻‍♀️,1F9D9 1F3FB 200D 2640 FE0F                  ,woman mage: light skin tone
+🧙🏻‍♂️,1F9D9 1F3FB 200D 2642 FE0F                  ,man mage: light skin tone
+🧙🏼‍♀️,1F9D9 1F3FC 200D 2640 FE0F                  ,woman mage: medium-light skin tone
+🧙🏼‍♂️,1F9D9 1F3FC 200D 2642 FE0F                  ,man mage: medium-light skin tone
+🧙🏽‍♀️,1F9D9 1F3FD 200D 2640 FE0F                  ,woman mage: medium skin tone
+🧙🏽‍♂️,1F9D9 1F3FD 200D 2642 FE0F                  ,man mage: medium skin tone
+🧙🏾‍♀️,1F9D9 1F3FE 200D 2640 FE0F                  ,woman mage: medium-dark skin tone
+🧙🏾‍♂️,1F9D9 1F3FE 200D 2642 FE0F                  ,man mage: medium-dark skin tone
+🧙🏿‍♀️,1F9D9 1F3FF 200D 2640 FE0F                  ,woman mage: dark skin tone
+🧙🏿‍♂️,1F9D9 1F3FF 200D 2642 FE0F                  ,man mage: dark skin tone
+🧚‍♀️,1F9DA 200D 2640 FE0F                        ,woman fairy
+🧚‍♂️,1F9DA 200D 2642 FE0F                        ,man fairy
+🧚🏻‍♀️,1F9DA 1F3FB 200D 2640 FE0F                  ,woman fairy: light skin tone
+🧚🏻‍♂️,1F9DA 1F3FB 200D 2642 FE0F                  ,man fairy: light skin tone
+🧚🏼‍♀️,1F9DA 1F3FC 200D 2640 FE0F                  ,woman fairy: medium-light skin tone
+🧚🏼‍♂️,1F9DA 1F3FC 200D 2642 FE0F                  ,man fairy: medium-light skin tone
+🧚🏽‍♀️,1F9DA 1F3FD 200D 2640 FE0F                  ,woman fairy: medium skin tone
+🧚🏽‍♂️,1F9DA 1F3FD 200D 2642 FE0F                  ,man fairy: medium skin tone
+🧚🏾‍♀️,1F9DA 1F3FE 200D 2640 FE0F                  ,woman fairy: medium-dark skin tone
+🧚🏾‍♂️,1F9DA 1F3FE 200D 2642 FE0F                  ,man fairy: medium-dark skin tone
+🧚🏿‍♀️,1F9DA 1F3FF 200D 2640 FE0F                  ,woman fairy: dark skin tone
+🧚🏿‍♂️,1F9DA 1F3FF 200D 2642 FE0F                  ,man fairy: dark skin tone
+🧛‍♀️,1F9DB 200D 2640 FE0F                        ,woman vampire
+🧛‍♂️,1F9DB 200D 2642 FE0F                        ,man vampire
+🧛🏻‍♀️,1F9DB 1F3FB 200D 2640 FE0F                  ,woman vampire: light skin tone
+🧛🏻‍♂️,1F9DB 1F3FB 200D 2642 FE0F                  ,man vampire: light skin tone
+🧛🏼‍♀️,1F9DB 1F3FC 200D 2640 FE0F                  ,woman vampire: medium-light skin tone
+🧛🏼‍♂️,1F9DB 1F3FC 200D 2642 FE0F                  ,man vampire: medium-light skin tone
+🧛🏽‍♀️,1F9DB 1F3FD 200D 2640 FE0F                  ,woman vampire: medium skin tone
+🧛🏽‍♂️,1F9DB 1F3FD 200D 2642 FE0F                  ,man vampire: medium skin tone
+🧛🏾‍♀️,1F9DB 1F3FE 200D 2640 FE0F                  ,woman vampire: medium-dark skin tone
+🧛🏾‍♂️,1F9DB 1F3FE 200D 2642 FE0F                  ,man vampire: medium-dark skin tone
+🧛🏿‍♀️,1F9DB 1F3FF 200D 2640 FE0F                  ,woman vampire: dark skin tone
+🧛🏿‍♂️,1F9DB 1F3FF 200D 2642 FE0F                  ,man vampire: dark skin tone
+🧜‍♀️,1F9DC 200D 2640 FE0F                        ,mermaid
+🧜‍♂️,1F9DC 200D 2642 FE0F                        ,merman
+🧜🏻‍♀️,1F9DC 1F3FB 200D 2640 FE0F                  ,mermaid: light skin tone
+🧜🏻‍♂️,1F9DC 1F3FB 200D 2642 FE0F                  ,merman: light skin tone
+🧜🏼‍♀️,1F9DC 1F3FC 200D 2640 FE0F                  ,mermaid: medium-light skin tone
+🧜🏼‍♂️,1F9DC 1F3FC 200D 2642 FE0F                  ,merman: medium-light skin tone
+🧜🏽‍♀️,1F9DC 1F3FD 200D 2640 FE0F                  ,mermaid: medium skin tone
+🧜🏽‍♂️,1F9DC 1F3FD 200D 2642 FE0F                  ,merman: medium skin tone
+🧜🏾‍♀️,1F9DC 1F3FE 200D 2640 FE0F                  ,mermaid: medium-dark skin tone
+🧜🏾‍♂️,1F9DC 1F3FE 200D 2642 FE0F                  ,merman: medium-dark skin tone
+🧜🏿‍♀️,1F9DC 1F3FF 200D 2640 FE0F                  ,mermaid: dark skin tone
+🧜🏿‍♂️,1F9DC 1F3FF 200D 2642 FE0F                  ,merman: dark skin tone
+🧝‍♀️,1F9DD 200D 2640 FE0F                        ,woman elf
+🧝‍♂️,1F9DD 200D 2642 FE0F                        ,man elf
+🧝🏻‍♀️,1F9DD 1F3FB 200D 2640 FE0F                  ,woman elf: light skin tone
+🧝🏻‍♂️,1F9DD 1F3FB 200D 2642 FE0F                  ,man elf: light skin tone
+🧝🏼‍♀️,1F9DD 1F3FC 200D 2640 FE0F                  ,woman elf: medium-light skin tone
+🧝🏼‍♂️,1F9DD 1F3FC 200D 2642 FE0F                  ,man elf: medium-light skin tone
+🧝🏽‍♀️,1F9DD 1F3FD 200D 2640 FE0F                  ,woman elf: medium skin tone
+🧝🏽‍♂️,1F9DD 1F3FD 200D 2642 FE0F                  ,man elf: medium skin tone
+🧝🏾‍♀️,1F9DD 1F3FE 200D 2640 FE0F                  ,woman elf: medium-dark skin tone
+🧝🏾‍♂️,1F9DD 1F3FE 200D 2642 FE0F                  ,man elf: medium-dark skin tone
+🧝🏿‍♀️,1F9DD 1F3FF 200D 2640 FE0F                  ,woman elf: dark skin tone
+🧝🏿‍♂️,1F9DD 1F3FF 200D 2642 FE0F                  ,man elf: dark skin tone
+🧞‍♀️,1F9DE 200D 2640 FE0F                        ,woman genie
+🧞‍♂️,1F9DE 200D 2642 FE0F                        ,man genie
+🧟‍♀️,1F9DF 200D 2640 FE0F                        ,woman zombie
+🧟‍♂️,1F9DF 200D 2642 FE0F                        ,man zombie
+👨‍🦰,1F468 200D 1F9B0                            ,man: red hair
+👨‍🦱,1F468 200D 1F9B1                            ,man: curly hair
+👨‍🦲,1F468 200D 1F9B2                            ,man: bald
+👨‍🦳,1F468 200D 1F9B3                            ,man: white hair
+👨🏻‍🦰,1F468 1F3FB 200D 1F9B0                      ,"man: light skin tone, red hair"
+👨🏻‍🦱,1F468 1F3FB 200D 1F9B1                      ,"man: light skin tone, curly hair"
+👨🏻‍🦲,1F468 1F3FB 200D 1F9B2                      ,"man: light skin tone, bald"
+👨🏻‍🦳,1F468 1F3FB 200D 1F9B3                      ,"man: light skin tone, white hair"
+👨🏼‍🦰,1F468 1F3FC 200D 1F9B0                      ,"man: medium-light skin tone, red hair"
+👨🏼‍🦱,1F468 1F3FC 200D 1F9B1                      ,"man: medium-light skin tone, curly hair"
+👨🏼‍🦲,1F468 1F3FC 200D 1F9B2                      ,"man: medium-light skin tone, bald"
+👨🏼‍🦳,1F468 1F3FC 200D 1F9B3                      ,"man: medium-light skin tone, white hair"
+👨🏽‍🦰,1F468 1F3FD 200D 1F9B0                      ,"man: medium skin tone, red hair"
+👨🏽‍🦱,1F468 1F3FD 200D 1F9B1                      ,"man: medium skin tone, curly hair"
+👨🏽‍🦲,1F468 1F3FD 200D 1F9B2                      ,"man: medium skin tone, bald"
+👨🏽‍🦳,1F468 1F3FD 200D 1F9B3                      ,"man: medium skin tone, white hair"
+👨🏾‍🦰,1F468 1F3FE 200D 1F9B0                      ,"man: medium-dark skin tone, red hair"
+👨🏾‍🦱,1F468 1F3FE 200D 1F9B1                      ,"man: medium-dark skin tone, curly hair"
+👨🏾‍🦲,1F468 1F3FE 200D 1F9B2                      ,"man: medium-dark skin tone, bald"
+👨🏾‍🦳,1F468 1F3FE 200D 1F9B3                      ,"man: medium-dark skin tone, white hair"
+👨🏿‍🦰,1F468 1F3FF 200D 1F9B0                      ,"man: dark skin tone, red hair"
+👨🏿‍🦱,1F468 1F3FF 200D 1F9B1                      ,"man: dark skin tone, curly hair"
+👨🏿‍🦲,1F468 1F3FF 200D 1F9B2                      ,"man: dark skin tone, bald"
+👨🏿‍🦳,1F468 1F3FF 200D 1F9B3                      ,"man: dark skin tone, white hair"
+👩‍🦰,1F469 200D 1F9B0                            ,woman: red hair
+👩‍🦱,1F469 200D 1F9B1                            ,woman: curly hair
+👩‍🦲,1F469 200D 1F9B2                            ,woman: bald
+👩‍🦳,1F469 200D 1F9B3                            ,woman: white hair
+👩🏻‍🦰,1F469 1F3FB 200D 1F9B0                      ,"woman: light skin tone, red hair"
+👩🏻‍🦱,1F469 1F3FB 200D 1F9B1                      ,"woman: light skin tone, curly hair"
+👩🏻‍🦲,1F469 1F3FB 200D 1F9B2                      ,"woman: light skin tone, bald"
+👩🏻‍🦳,1F469 1F3FB 200D 1F9B3                      ,"woman: light skin tone, white hair"
+👩🏼‍🦰,1F469 1F3FC 200D 1F9B0                      ,"woman: medium-light skin tone, red hair"
+👩🏼‍🦱,1F469 1F3FC 200D 1F9B1                      ,"woman: medium-light skin tone, curly hair"
+👩🏼‍🦲,1F469 1F3FC 200D 1F9B2                      ,"woman: medium-light skin tone, bald"
+👩🏼‍🦳,1F469 1F3FC 200D 1F9B3                      ,"woman: medium-light skin tone, white hair"
+👩🏽‍🦰,1F469 1F3FD 200D 1F9B0                      ,"woman: medium skin tone, red hair"
+👩🏽‍🦱,1F469 1F3FD 200D 1F9B1                      ,"woman: medium skin tone, curly hair"
+👩🏽‍🦲,1F469 1F3FD 200D 1F9B2                      ,"woman: medium skin tone, bald"
+👩🏽‍🦳,1F469 1F3FD 200D 1F9B3                      ,"woman: medium skin tone, white hair"
+👩🏾‍🦰,1F469 1F3FE 200D 1F9B0                      ,"woman: medium-dark skin tone, red hair"
+👩🏾‍🦱,1F469 1F3FE 200D 1F9B1                      ,"woman: medium-dark skin tone, curly hair"
+👩🏾‍🦲,1F469 1F3FE 200D 1F9B2                      ,"woman: medium-dark skin tone, bald"
+👩🏾‍🦳,1F469 1F3FE 200D 1F9B3                      ,"woman: medium-dark skin tone, white hair"
+👩🏿‍🦰,1F469 1F3FF 200D 1F9B0                      ,"woman: dark skin tone, red hair"
+👩🏿‍🦱,1F469 1F3FF 200D 1F9B1                      ,"woman: dark skin tone, curly hair"
+👩🏿‍🦲,1F469 1F3FF 200D 1F9B2                      ,"woman: dark skin tone, bald"
+👩🏿‍🦳,1F469 1F3FF 200D 1F9B3                      ,"woman: dark skin tone, white hair"
+🧑‍🦰,1F9D1 200D 1F9B0                            ,person: red hair
+🧑‍🦱,1F9D1 200D 1F9B1                            ,person: curly hair
+🧑‍🦲,1F9D1 200D 1F9B2                            ,person: bald
+🧑‍🦳,1F9D1 200D 1F9B3                            ,person: white hair
+🧑🏻‍🦰,1F9D1 1F3FB 200D 1F9B0                      ,"person: light skin tone, red hair"
+🧑🏻‍🦱,1F9D1 1F3FB 200D 1F9B1                      ,"person: light skin tone, curly hair"
+🧑🏻‍🦲,1F9D1 1F3FB 200D 1F9B2                      ,"person: light skin tone, bald"
+🧑🏻‍🦳,1F9D1 1F3FB 200D 1F9B3                      ,"person: light skin tone, white hair"
+🧑🏼‍🦰,1F9D1 1F3FC 200D 1F9B0                      ,"person: medium-light skin tone, red hair"
+🧑🏼‍🦱,1F9D1 1F3FC 200D 1F9B1                      ,"person: medium-light skin tone, curly hair"
+🧑🏼‍🦲,1F9D1 1F3FC 200D 1F9B2                      ,"person: medium-light skin tone, bald"
+🧑🏼‍🦳,1F9D1 1F3FC 200D 1F9B3                      ,"person: medium-light skin tone, white hair"
+🧑🏽‍🦰,1F9D1 1F3FD 200D 1F9B0                      ,"person: medium skin tone, red hair"
+🧑🏽‍🦱,1F9D1 1F3FD 200D 1F9B1                      ,"person: medium skin tone, curly hair"
+🧑🏽‍🦲,1F9D1 1F3FD 200D 1F9B2                      ,"person: medium skin tone, bald"
+🧑🏽‍🦳,1F9D1 1F3FD 200D 1F9B3                      ,"person: medium skin tone, white hair"
+🧑🏾‍🦰,1F9D1 1F3FE 200D 1F9B0                      ,"person: medium-dark skin tone, red hair"
+🧑🏾‍🦱,1F9D1 1F3FE 200D 1F9B1                      ,"person: medium-dark skin tone, curly hair"
+🧑🏾‍🦲,1F9D1 1F3FE 200D 1F9B2                      ,"person: medium-dark skin tone, bald"
+🧑🏾‍🦳,1F9D1 1F3FE 200D 1F9B3                      ,"person: medium-dark skin tone, white hair"
+🧑🏿‍🦰,1F9D1 1F3FF 200D 1F9B0                      ,"person: dark skin tone, red hair"
+🧑🏿‍🦱,1F9D1 1F3FF 200D 1F9B1                      ,"person: dark skin tone, curly hair"
+🧑🏿‍🦲,1F9D1 1F3FF 200D 1F9B2                      ,"person: dark skin tone, bald"
+🧑🏿‍🦳,1F9D1 1F3FF 200D 1F9B3                      ,"person: dark skin tone, white hair"
+⛓️‍💥,26D3 FE0F 200D 1F4A5                        ,broken chain
+❤️‍🔥,2764 FE0F 200D 1F525                        ,heart on fire
+❤️‍🩹,2764 FE0F 200D 1FA79                        ,mending heart
+🍄‍🟫,1F344 200D 1F7EB                            ,brown mushroom
+🍋‍🟩,1F34B 200D 1F7E9                            ,lime
+🏳️‍⚧️,1F3F3 FE0F 200D 26A7 FE0F                   ,transgender flag
+🏳️‍🌈,1F3F3 FE0F 200D 1F308                       ,rainbow flag
+🏴‍☠️,1F3F4 200D 2620 FE0F                        ,pirate flag
+🐈‍⬛,1F408 200D 2B1B                             ,black cat
+🐕‍🦺,1F415 200D 1F9BA                            ,service dog
+🐦‍⬛,1F426 200D 2B1B                             ,black bird
+🐦‍🔥,1F426 200D 1F525                            ,phoenix
+🐻‍❄️,1F43B 200D 2744 FE0F                        ,polar bear
+👁️‍🗨️,1F441 FE0F 200D 1F5E8 FE0F                  ,eye in speech bubble
+😮‍💨,1F62E 200D 1F4A8                            ,face exhaling
+😵‍💫,1F635 200D 1F4AB                            ,face with spiral eyes
+😶‍🌫️,1F636 200D 1F32B FE0F                       ,face in clouds
+🙂‍↔️,1F642 200D 2194 FE0F                        ,head shaking horizontally
+🙂‍↕️,1F642 200D 2195 FE0F                        ,head shaking vertically
