@@ -10,10 +10,11 @@ This project implements an image classification model using PyTorch to distingui
     * `Cat/`: Containing images of cats.
     * `Dog/`: Containing images of dogs.
     * `Hare/`: Containing images of hares.
+ 
 
 ## Model
-
-**Model Definition (`CatDogCNN`):**
+    
+* **Model Definition (`CatDogCNN`):**
     * **Convolutional Layer 1:** 3 input channels, 32 output channels, 3x3 kernel, padding 1, ReLU activation.
     * **Max Pooling Layer 1:** 2x2 kernel, stride 2.
     * **Convolutional Layer 2:** 32 input channels, 64 output channels, 3x3 kernel, padding 1, ReLU activation.
