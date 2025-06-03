@@ -5,7 +5,7 @@
 This project is designed to scrape business reviews from the 2gis.kz platform, process the collected text data, and then train a sentiment analysis model to classify the reviews as positive, neutral, or negative.
 Selenium requires a WebDriver to interact with the browser. This project uses ChromeDriverSelenium requires a WebDriver to interact with the browser. This project uses ChromeDriver
 
-## Data Sources & Intermediate Files
+## Data Sources
 
 1.  **Target Website for Scraping**: `2gis.kz` (specifically, business review pages). The URL for the target business is specified in `scrap.ipynb`.
 2.  **Scraped Data (`reviews_data.csv`)**:
@@ -19,7 +19,7 @@ Selenium requires a WebDriver to interact with the browser. This project uses Ch
     * `textClassifier.ipynb` can merge multiple CSV files from a `Reviews/` directory. If `reviews_data.csv` (from scraping) is the primary source, it should be placed in this directory.
     * This merged file is the main input for the text classifier.
 
-## Key Components & Workflow
+## Workflow
 
 1.  **Scraping (Selenium):**
     * Update under your usage(mine is draft) 
